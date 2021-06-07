@@ -1,0 +1,8 @@
+
+*.pyc
+hindsight/~$DHS_red_boxes.xlsx
+hindsight/matched_claims/.DS_Store
+hindsight/func/cord19_json_loader.py.bak
+hindsight/func/.DS_Store
+hindsight/.DS_Store
+.DS_Store

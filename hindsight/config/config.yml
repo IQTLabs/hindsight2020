@@ -1,0 +1,31 @@
+---
+# processing paths:
+data_dir: ../Hindsight2020_ready/data
+output_dir: hindsight/matched_claims/ # path to where matched outputs are written
+results_csv_path: hindsight/results.txt
+skipped_path: hindsight/skipped.txt
+
+# CORD19 paths
+cord19_dir: ../Hindsight2020_ready/data/cord19_json/pdf_json_jan4/ # json files we want to process as candidate docs
+metadata_path: ../Hindsight2020_ready/data/metadata.csv # CORD19 metadata that comes with a download of the dataset
+
+# DHS dataset paths
+DHS_path: hindsight/DHS_processed.txt
+NERs_path: hindsight/DHS_NERs.csv
+DHS_citations_path: hindsight/DHS_citations.txt
+DHS_citations_dataframe_path: hindsight/citations_df.txt
+DHS_raw_path: hindsight/DHS_raw.txt
+
+# claim matcher parameters:
+num_matches: 10 # number of top matches to show
+# name of pre-trained model params, examples at https://github.com/UKPLab/sentence-transformers#pretrained-models
+# https://openreview.net/pdf?id=cuO2gp2IGi  <---- why to choose DistilBERT versus a bio-based BERT
+model: msmarco-distilroberta-base-v2
+# additional recommended models are xlm-r-large-en-ko-nli-ststb and roberta-large-nli-stsb-mean-tokens
+
+# manual matcher parameters:
+sentences: # manually specified sentences to use for claim matching if manual is specified for the search set
+  - Preliminary genomic analyses, however, suggest that the first human cases of SARS-CoV-2 emerged between 10/19/2019 - 12/17/2019.
+
+
+...

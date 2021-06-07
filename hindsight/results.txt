@@ -1,0 +1,1 @@
+question	ground_truth	matched_claim	matched_claim_paperID	ground_truth_paperID	matched_date	matched_authors	matched_journal	matched_title	matched_affiliation	distance

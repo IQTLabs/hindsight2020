@@ -1,0 +1,949 @@
+The human infectious dose of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is unknown by all exposure routes.
+The human infectious dose of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is unknown by all exposure routes.
+The human infectious dose of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is unknown by all exposure routes.
+Based on experimental studies with humans exposed to other coronaviruses, animals exposed to SARS-CoV-2, and modeling estimates, the median infectious dose is likely between 10 and 1,000 viral particles (plaque-forming units, PFU).
+Rhesus and cynomolgus macaques showed mild to moderate clinical infections at doses of 4.75x106 PFU (delivered through several routes), while marmosets developed mild infections when exposed to 1x106 PFU intranasally.
+Rhesus and cynomolgus macaques showed mild to moderate clinical infections at doses of 4.75x106 PFU (delivered through several routes), while marmosets developed mild infections when exposed to 1x106 PFU intranasally.
+Rhesus macaques are effectively infected with SARS-CoV-2 via the ocular conjunctival and intratracheal route at a dose of ~700,000 PFU (106 TCID50).
+Rhesus macaques are effectively infected with SARS-CoV-2 via the ocular conjunctival and intratracheal route at a dose of ~700,000 PFU (106 TCID50).
+Rhesus macaques infected with 2,600,000 TCID50 of SARS-CoV-2 by the intranasal, intratracheal, oral and ocular routes combined recapitulate moderate human disease.
+African green monkeys replicate aspects of human disease, including severe pathological symptoms (exposed to 500,000 PFU via intranasal and intratracheal routes), mild clinical symptoms (aerosol exposures between 5,000 and 16,000 PFU), and acute respiratory distress syndrome (ARDS), with small particle aerosol exposure doses as low as 2,000 PFU.
+African green monkeys replicate aspects of human disease, including severe pathological symptoms (exposed to 500,000 PFU via intranasal and intratracheal routes), mild clinical symptoms (aerosol exposures between 5,000 and 16,000 PFU), and acute respiratory distress syndrome (ARDS), with small particle aerosol exposure doses as low as 2,000 PFU.
+African green monkeys replicate aspects of human disease, including severe pathological symptoms (exposed to 500,000 PFU via intranasal and intratracheal routes), mild clinical symptoms (aerosol exposures between 5,000 and 16,000 PFU), and acute respiratory distress syndrome (ARDS), with small particle aerosol exposure doses as low as 2,000 PFU.
+African green monkeys replicate aspects of human disease, including severe pathological symptoms (exposed to 500,000 PFU via intranasal and intratracheal routes), mild clinical symptoms (aerosol exposures between 5,000 and 16,000 PFU), and acute respiratory distress syndrome (ARDS), with small particle aerosol exposure doses as low as 2,000 PFU.
+African green monkeys replicate aspects of human disease, including severe pathological symptoms (exposed to 500,000 PFU via intranasal and intratracheal routes), mild clinical symptoms (aerosol exposures between 5,000 and 16,000 PFU), and acute respiratory distress syndrome (ARDS), with small particle aerosol exposure doses as low as 2,000 PFU.
+African green monkeys replicate aspects of human disease, including severe pathological symptoms (exposed to 500,000 PFU via intranasal and intratracheal routes), mild clinical symptoms (aerosol exposures between 5,000 and 16,000 PFU), and acute respiratory distress syndrome (ARDS), with small particle aerosol exposure doses as low as 2,000 PFU.
+Aerosol exposure of three primate species (African green monkeys, cynomolgus macaques, and rhesus macaques) via a Collison nebulizer resulted in mild clinical disease in all animals with doses between 28,700 and 48,600 PFU.
+Golden Syrian hamsters exposed to 80,000 TCID50 (~56,000 PFU) via the intranasal route developed clinical symptoms reminiscent of mild human infections (all hamsters infected).
+Golden Syrian hamsters exposed to 80,000 TCID50 (~56,000 PFU) via the intranasal route developed clinical symptoms reminiscent of mild human infections (all hamsters infected).
+Golden Syrian hamsters infected with 100,000 PFU intranasally exhibited mild clinical symptoms and developed neutralizing antibodies, and were also capable of infecting individuals in separate cages.
+Golden Syrian hamsters infected with 100,000 PFU intranasally exhibited mild clinical symptoms and developed neutralizing antibodies, and were also capable of infecting individuals in separate cages.
+Golden Syrian hamsters infected with 100,000 PFU intranasally exhibited mild clinical symptoms and developed neutralizing antibodies, and were also capable of infecting individuals in separate cages.
+Transgenic (hACE2) mice became infected after timed aerosol exposure (36 TCID50/minute) to between 900 and 1080 TCID50 (~630-756 PFU).
+Ferrets infected with 316,000 TCID50339 or 600,000 TCID50572 of SARS-CoV-2 by the intranasal route show similar symptoms to human disease.
+Ferrets infected with 316,000 TCID50339 or 600,000 TCID50572 of SARS-CoV-2 by the intranasal route show similar symptoms to human disease.
+Uninfected ferrets in direct contact with infected ferrets test positive and show disease as early as 2 days post-contact.
+Uninfected ferrets in direct contact with infected ferrets test positive and show disease as early as 2 days post-contact.
+Uninfected ferrets in direct contact with infected ferrets test positive and show disease as early as 2 days post-contact.
+Uninfected ferrets in direct contact with infected ferrets test positive and show disease as early as 2 days post-contact.
+Uninfected ferrets in direct contact with infected ferrets test positive and show disease as early as 2 days post-contact.
+Modeling aerosol exposures from 5 case studies suggests the inhalation ID50 for SARS-CoV-2 is approximately 361-2,000 viral particles, which is approximately 250-1,400 PFU.
+Modeling aerosol exposures from 5 case studies suggests the inhalation ID50 for SARS-CoV-2 is approximately 361-2,000 viral particles, which is approximately 250-1,400 PFU.
+Genetically modified mice exposed intranasally to Middle East respiratory syndrome coronavirus (MERS-CoV) between 100-500,000 PFU show signs of infection.
+Genetically modified mice exposed intranasally to Middle East respiratory syndrome coronavirus (MERS-CoV) between 100-500,000 PFU show signs of infection.
+Infection with higher doses result in severe syndromes.
+Infection with higher doses result in severe syndromes.
+SARS-CoV-2 is passed easily between humans through close contact and aerosol transmission.
+SARS-CoV-2 is passed easily between humans through close contact and aerosol transmission.
+SARS-CoV-2 is passed easily between humans through close contact and aerosol transmission.
+SARS-CoV-2 is passed easily between humans through close contact and aerosol transmission.
+SARS-CoV-2 is passed easily between humans through close contact and aerosol transmission.
+As of 12/21/2020, pandemic COVID-19 has caused at least 77,074,469 infections and 1,697,679 deaths globally.
+As of 12/21/2020, pandemic COVID-19 has caused at least 77,074,469 infections and 1,697,679 deaths globally.
+As of 12/21/2020, pandemic COVID-19 has caused at least 77,074,469 infections and 1,697,679 deaths globally.
+As of 12/21/2020, pandemic COVID-19 has caused at least 77,074,469 infections and 1,697,679 deaths globally.
+As of 12/21/2020, pandemic COVID-19 has caused at least 77,074,469 infections and 1,697,679 deaths globally.
+As of 12/21/2020, pandemic COVID-19 has caused at least 77,074,469 infections and 1,697,679 deaths globally.
+As of 12/21/2020, pandemic COVID-19 has caused at least 77,074,469 infections and 1,697,679 deaths globally.
+SARS-CoV-2 can spread via aerosol or ‚Äö√Ñ√∫airborne‚Äö√Ñ√π transmission beyond 6 ft in certain situations such as enclosed spaces with inadequate ventilation.
+The risk of airborne infection from fomites is believed to be low.
+The risk of airborne infection from fomites is believed to be low.
+The risk of airborne infection from fomites is believed to be low.
+The risk of airborne infection from fomites is believed to be low.
+Vertical transmission from mother to fetus is possible but rare.
+Vertical transmission from mother to fetus is possible but rare.
+Vertical transmission from mother to fetus is possible but rare.
+Vertical transmission from mother to fetus is possible but rare.
+Vertical transmission from mother to fetus is possible but rare.
+Vertical transmission from mother to fetus is possible but rare.
+Vertical transmission from mother to fetus is possible but rare.
+Individuals may be infectious for 1-3 days prior to symptom onset.
+Individuals may be infectious for 1-3 days prior to symptom onset.
+Individuals may be infectious for 1-3 days prior to symptom onset.
+Individuals may be infectious for 1-3 days prior to symptom onset.
+Individuals may be infectious for 1-3 days prior to symptom onset.
+Individuals may be infectious for 1-3 days prior to symptom onset.
+Individuals may be infectious for 1-3 days prior to symptom onset.
+Pre-symptomatic or asymptomatic patients can transmit SARS-CoV-2.
+Pre-symptomatic or asymptomatic patients can transmit SARS-CoV-2.
+Between 15-56% of infections may be caused by pre- symptomatic transmission.
+Between 15-56% of infections may be caused by pre- symptomatic transmission.
+Between 15-56% of infections may be caused by pre- symptomatic transmission.
+Between 15-56% of infections may be caused by pre- symptomatic transmission.
+Most transmission occurs before symptoms begin and within 5 days of symptom onset.
+Most transmission occurs before symptoms begin and within 5 days of symptom onset.
+Most transmission occurs before symptoms begin and within 5 days of symptom onset.
+Asymptomatic individuals can transmit disease as soon as 2 days after infection.
+Asymptomatic individuals can transmit disease as soon as 2 days after infection.
+Asymptomatic individuals can transmit disease as soon as 2 days after infection.
+There is evidence that asymptomatic individuals transmit SARS-CoV-2 less often than symptomatic individuals.
+There is evidence that asymptomatic individuals transmit SARS-CoV-2 less often than symptomatic individuals.
+There is evidence that asymptomatic individuals transmit SARS-CoV-2 less often than symptomatic individuals.
+SARS-CoV-2 may be spread by conversation and exhalation in indoor areas such as restaurants.
+Clusters are often associated with large indoor gatherings, including bars, restaurants, and gyms.
+Clusters are often associated with large indoor gatherings, including bars, restaurants, and gyms.
+Clusters are often associated with large indoor gatherings, including bars, restaurants, and gyms.
+Clusters are often associated with large indoor gatherings, including bars, restaurants, and gyms.
+Clusters are often associated with large indoor gatherings, including bars, restaurants, and gyms.
+Household transmission is rapid, and household contacts spread infection more than casual community contacts.
+Household transmission is rapid, and household contacts spread infection more than casual community contacts.
+Household transmission is rapid, and household contacts spread infection more than casual community contacts.
+Household transmission is rapid, and household contacts spread infection more than casual community contacts.
+Household transmission is rapid, and household contacts spread infection more than casual community contacts.
+Household transmission is rapid, and household contacts spread infection more than casual community contacts.
+Household transmission is rapid, and household contacts spread infection more than casual community contacts.
+On average, 16.6% to 18% of household contacts of infected index patients acquire SARS-CoV-2 (i.e., the ‚Äö√Ñ√∫attack rate‚Äö√Ñ√π).
+On average, 16.6% to 18% of household contacts of infected index patients acquire SARS-CoV-2 (i.e., the ‚Äö√Ñ√∫attack rate‚Äö√Ñ√π).
+On average, 16.6% to 18% of household contacts of infected index patients acquire SARS-CoV-2 (i.e., the ‚Äö√Ñ√∫attack rate‚Äö√Ñ√π).
+On average, 16.6% to 18% of household contacts of infected index patients acquire SARS-CoV-2 (i.e., the ‚Äö√Ñ√∫attack rate‚Äö√Ñ√π).
+Attack rates are higher for symptomatic index cases, spouses of index cases, and adults, though transmission to children may be underestimated.
+Attack rates are higher for symptomatic index cases, spouses of index cases, and adults, though transmission to children may be underestimated.
+Attack rates are higher for symptomatic index cases, spouses of index cases, and adults, though transmission to children may be underestimated.
+75% of household infections occurred within 5 days of illness onset in the index case.
+In a US study, 31 of 58 households (54%) with a primary SARS-CoV-2 case showed evidence of secondary transmission; in 7 of these 31 households (23%), all members of the household became infected.
+In a US study, 31 of 58 households (54%) with a primary SARS-CoV-2 case showed evidence of secondary transmission; in 7 of these 31 households (23%), all members of the household became infected.
+In a US study, 31 of 58 households (54%) with a primary SARS-CoV-2 case showed evidence of secondary transmission; in 7 of these 31 households (23%), all members of the household became infected.
+Superspreading events (SSEs) appear common in SARS-CoV-2 transmission and may be crucial for controlling spread.
+Superspreading events (SSEs) appear common in SARS-CoV-2 transmission and may be crucial for controlling spread.
+Superspreading events (SSEs) appear common in SARS-CoV-2 transmission and may be crucial for controlling spread.
+Superspreading events (SSEs) appear common in SARS-CoV-2 transmission and may be crucial for controlling spread.
+Most new infections come from a few infectious individuals (overdispersion parameter k = 0.2-0.5).
+Most new infections come from a few infectious individuals (overdispersion parameter k = 0.2-0.5).
+Most new infections come from a few infectious individuals (overdispersion parameter k = 0.2-0.5).
+Most new infections come from a few infectious individuals (overdispersion parameter k = 0.2-0.5).
+Rates of transmission on public transit are unclear but appear low, but the US CDC recommends masks during travel.
+Rates of transmission on public transit are unclear but appear low, but the US CDC recommends masks during travel.
+Children of any age can acquire and transmit infection in homes, schools, and community settings, though there is some evidence that younger children (<10-15) are less susceptible and less infectious than older children and adults.
+Children of any age can acquire and transmit infection in homes, schools, and community settings, though there is some evidence that younger children (<10-15) are less susceptible and less infectious than older children and adults.
+There is evidence of high transmission rates among same-aged children, as well as transmission in the home, at school, and in the community.
+There is evidence of high transmission rates among same-aged children, as well as transmission in the home, at school, and in the community.
+There is evidence of high transmission rates among same-aged children, as well as transmission in the home, at school, and in the community.
+There is evidence of high transmission rates among same-aged children, as well as transmission in the home, at school, and in the community.
+There is evidence of high transmission rates among same-aged children, as well as transmission in the home, at school, and in the community.
+There is evidence of high transmission rates among same-aged children, as well as transmission in the home, at school, and in the community.
+There is evidence of high transmission rates among same-aged children, as well as transmission in the home, at school, and in the community.
+However, there have also been suggestions that children are both less susceptible to COVID-19 (due to low PCR test positivity rates)430 and less infectious (because they are rarely identified as the index case in households).
+Some emerging evidence suggests that young children (<10) are less susceptible and less infectious than adults, while older children and adolescents are more similar to adults.
+Some emerging evidence suggests that young children (<10) are less susceptible and less infectious than adults, while older children and adolescents are more similar to adults.
+Some emerging evidence suggests that young children (<10) are less susceptible and less infectious than adults, while older children and adolescents are more similar to adults.
+After schools reopened in Italy, researchers found low attack rates in preschool (0%) and elementary school children (0.38%), but higher attack rates in middle and high school students (6.5%).
+After schools reopened in Italy, researchers found low attack rates in preschool (0%) and elementary school children (0.38%), but higher attack rates in middle and high school students (6.5%).
+Discrepancies regarding the susceptibility and infectivity of children may be partly explained by age.
+Discrepancies regarding the susceptibility and infectivity of children may be partly explained by age.
+Children are also less likely than adults to test positive for COVID-19 via RT-PCR despite being infected, underestimating pediatric COVID-19 infections.
+Separating the effects of differential susceptibility, infectivity, test positivity, and testing likelihood by age is crucial to understand the role of children.
+Separating the effects of differential susceptibility, infectivity, test positivity, and testing likelihood by age is crucial to understand the role of children.
+Separating the effects of differential susceptibility, infectivity, test positivity, and testing likelihood by age is crucial to understand the role of children.
+Separating the effects of differential susceptibility, infectivity, test positivity, and testing likelihood by age is crucial to understand the role of children.
+Separating the effects of differential susceptibility, infectivity, test positivity, and testing likelihood by age is crucial to understand the role of children.
+Separating the effects of differential susceptibility, infectivity, test positivity, and testing likelihood by age is crucial to understand the role of children.
+Individuals who have clinically recovered but test positive for COVID-19 are unlikely to be infectious.
+Individuals who have clinically recovered but test positive for COVID-19 are unlikely to be infectious.
+Individuals who have clinically recovered but test positive for COVID-19 are unlikely to be infectious.
+SARS-CoV-2 is closely related to other coronaviruses circulating in bats in Southeast Asia.
+Previous coronaviruses have passed through an intermediate mammal host before infecting humans, but the presence or identity of the SARS-CoV-2 intermediate host is unknown.
+Current evidence suggests a direct jump from bats to humans is plausible.
+Current evidence suggests a direct jump from bats to humans is plausible.
+Current evidence suggests a direct jump from bats to humans is plausible.
+Early genomic analysis indicates similarity to SARS-CoV-1, with a suggested bat origin.
+Early genomic analysis indicates similarity to SARS-CoV-1, with a suggested bat origin.
+Early genomic analysis indicates similarity to SARS-CoV-1, with a suggested bat origin.
+Viruses similar to SARS-CoV-2 were present in pangolin samples collected several years ago, and pangolins positive for coronaviruses related to SARS-CoV-2 exhibited clinical symptoms such as cough and shortness of breath.
+Viruses similar to SARS-CoV-2 were present in pangolin samples collected several years ago, and pangolins positive for coronaviruses related to SARS-CoV-2 exhibited clinical symptoms such as cough and shortness of breath.
+However, SARS-CoV-2 uses the same receptor for cell entry as the SARS-CoV-1 coronavirus that circulated in 2002/2003.
+However, SARS-CoV-2 uses the same receptor for cell entry as the SARS-CoV-1 coronavirus that circulated in 2002/2003.
+However, SARS-CoV-2 uses the same receptor for cell entry as the SARS-CoV-1 coronavirus that circulated in 2002/2003.
+Experiments show that SARS-CoV-2 Spike (S) receptor-binding domain binds the human cell receptor (ACE2) stronger than SARS-CoV-1, potentially explaining its high transmissibility.
+Changes in proteolytic cleavage of the Spike protein can also affect cell entry and animal host range, in addition to receptor binding.
+Changes in proteolytic cleavage of the Spike protein can also affect cell entry and animal host range, in addition to receptor binding.
+Changes in proteolytic cleavage of the Spike protein can also affect cell entry and animal host range, in addition to receptor binding.
+Changes in proteolytic cleavage of the Spike protein can also affect cell entry and animal host range, in addition to receptor binding.
+Animals can transmit SARS-CoV-2 to humans, but the potential role of long-term reservoir species is unknown.
+Animals can transmit SARS-CoV-2 to humans, but the potential role of long-term reservoir species is unknown.
+Animals can transmit SARS-CoV-2 to humans, but the potential role of long-term reservoir species is unknown.
+Animals can transmit SARS-CoV-2 to humans, but the potential role of long-term reservoir species is unknown.
+Animals can transmit SARS-CoV-2 to humans, but the potential role of long-term reservoir species is unknown.
+Infected mink have been linked to human infections in workers at mink farms.
+Infected mink have been linked to human infections in workers at mink farms.
+Infected mink have been linked to human infections in workers at mink farms.
+Infected mink have been linked to human infections in workers at mink farms.
+Infected mink have been linked to human infections in workers at mink farms.
+Infected mink have been linked to human infections in workers at mink farms.
+Several animal species are susceptible to SARS-CoV-2 infection.
+Several animal species are susceptible to SARS-CoV-2 infection.
+Several animal species are susceptible to SARS-CoV-2 infection.
+Several animal species are susceptible to SARS-CoV-2 infection.
+Several animal species are susceptible to SARS-CoV-2 infection.
+Animal model studies suggest that Golden Syrian hamsters and ferrets are susceptible to infection.
+In the Netherlands, farmed mink developed breathing and gastrointestinal issues, which was diagnosed as SARS-CoV-2 infection.
+In the Netherlands, farmed mink developed breathing and gastrointestinal issues, which was diagnosed as SARS-CoV-2 infection.
+In the Netherlands, farmed mink developed breathing and gastrointestinal issues, which was diagnosed as SARS-CoV-2 infection.
+In the Netherlands, farmed mink developed breathing and gastrointestinal issues, which was diagnosed as SARS-CoV-2 infection.
+SARS-CoV-2 cases in mink on US farms show high mortality rates, and farms have implemented strict biosecurity measures.
+SARS-CoV-2 cases in mink on US farms show high mortality rates, and farms have implemented strict biosecurity measures.
+SARS-CoV-2 cases in mink on US farms show high mortality rates, and farms have implemented strict biosecurity measures.
+Infected mink in the US have been linked to human infections.
+Infected mink in the US have been linked to human infections.
+Infected mink in the US have been linked to human infections.
+Several non-human primates are also susceptible to infection with SARS-CoV-2 including cynomolgus macaques, African green monkeys, and Rhesus macaques.
+Several non-human primates are also susceptible to infection with SARS-CoV-2 including cynomolgus macaques, African green monkeys, and Rhesus macaques.
+Several non-human primates are also susceptible to infection with SARS-CoV-2 including cynomolgus macaques, African green monkeys, and Rhesus macaques.
+Raccoon dogs (mammals related to foxes) are susceptible to COVID-19 (105 intranasal exposure dose) and were shown to transmit infection to other raccoon dogs in neighboring enclosures.
+Raccoon dogs (mammals related to foxes) are susceptible to COVID-19 (105 intranasal exposure dose) and were shown to transmit infection to other raccoon dogs in neighboring enclosures.
+Raccoon dogs (mammals related to foxes) are susceptible to COVID-19 (105 intranasal exposure dose) and were shown to transmit infection to other raccoon dogs in neighboring enclosures.
+Raccoon dogs (mammals related to foxes) are susceptible to COVID-19 (105 intranasal exposure dose) and were shown to transmit infection to other raccoon dogs in neighboring enclosures.
+Raccoon dogs (mammals related to foxes) are susceptible to COVID-19 (105 intranasal exposure dose) and were shown to transmit infection to other raccoon dogs in neighboring enclosures.
+Domestic cats are susceptible to infection with SARS-CoV-2 (100,000-520,000 PFU via the intranasal route or a combination of routes), and can transmit the virus to other cats via droplet or short-distance aerosol.
+Wild cats (tigers and lions) can be infected with SARS-CoV-2, although their ability to spread to humans is unknown.
+Wild cats (tigers and lions) can be infected with SARS-CoV-2, although their ability to spread to humans is unknown.
+Wild cats (tigers and lions) can be infected with SARS-CoV-2, although their ability to spread to humans is unknown.
+Studies have confirmed that human keepers transmitted SARS-CoV-2 to tigers and lions at the Bronx Zoo.
+Two cases of SARS-CoV-2 infection have been confirmed in pet domestic cats.
+Two cases of SARS-CoV-2 infection have been confirmed in pet domestic cats.
+Deer mice can be experimentally infected with SARS-CoV-2 via intranasal exposure (104 or 105 TCID50) and are able to transmit virus to uninfected deer mice through direct contact.
+Deer mice can be experimentally infected with SARS-CoV-2 via intranasal exposure (104 or 105 TCID50) and are able to transmit virus to uninfected deer mice through direct contact.
+Deer mice can be experimentally infected with SARS-CoV-2 via intranasal exposure (104 or 105 TCID50) and are able to transmit virus to uninfected deer mice through direct contact.
+Ducks, chickens, and pigs remained uninfected after experimental SARS-CoV-2 exposure (30,000 CFU for ducks and chickens, 100,000 PFU for pigs, ~70,000 PFU for pigs and chickens all via intranasal route).
+Ducks, chickens, and pigs remained uninfected after experimental SARS-CoV-2 exposure (30,000 CFU for ducks and chickens, 100,000 PFU for pigs, ~70,000 PFU for pigs and chickens all via intranasal route).
+Ducks, chickens, and pigs remained uninfected after experimental SARS-CoV-2 exposure (30,000 CFU for ducks and chickens, 100,000 PFU for pigs, ~70,000 PFU for pigs and chickens all via intranasal route).
+Ducks, chickens, and pigs remained uninfected after experimental SARS-CoV-2 exposure (30,000 CFU for ducks and chickens, 100,000 PFU for pigs, ~70,000 PFU for pigs and chickens all via intranasal route).
+When pigs were inoculated by the oronasal route (106 PFU), minimal to no signs of clinical disease were noted, suggesting limited transmission concerns.
+When pigs were inoculated by the oronasal route (106 PFU), minimal to no signs of clinical disease were noted, suggesting limited transmission concerns.
+Chicken, turkey, duck, quail, and geese were not susceptible to SARS-CoV-2 after experimental exposures.
+Chicken, turkey, duck, quail, and geese were not susceptible to SARS-CoV-2 after experimental exposures.
+Chicken, turkey, duck, quail, and geese were not susceptible to SARS-CoV-2 after experimental exposures.
+Chicken, turkey, duck, quail, and geese were not susceptible to SARS-CoV-2 after experimental exposures.
+In Italy, approximately 3-6% of domestic dogs and cats showed detectable neutralizing antibodies to SARS-CoV-2, though no animals showed clinical signs or positive RT-PCR tests in addition to the antibodies, and no evidence exists of transmission from dogs or cats to humans.
+In Italy, approximately 3-6% of domestic dogs and cats showed detectable neutralizing antibodies to SARS-CoV-2, though no animals showed clinical signs or positive RT-PCR tests in addition to the antibodies, and no evidence exists of transmission from dogs or cats to humans.
+In Italy, approximately 3-6% of domestic dogs and cats showed detectable neutralizing antibodies to SARS-CoV-2, though no animals showed clinical signs or positive RT-PCR tests in addition to the antibodies, and no evidence exists of transmission from dogs or cats to humans.
+survey of 334 pangolins did not identify coronavirus nucleic acid in ‚Äö√Ñ√≤upstream‚Äö√Ñ√¥ market chain samples, suggesting that positive samples from pangolins may be the result of exposure to infected humans, wildlife or other animals within the wildlife trade network.
+survey of 334 pangolins did not identify coronavirus nucleic acid in ‚Äö√Ñ√≤upstream‚Äö√Ñ√¥ market chain samples, suggesting that positive samples from pangolins may be the result of exposure to infected humans, wildlife or other animals within the wildlife trade network.
+survey of 334 pangolins did not identify coronavirus nucleic acid in ‚Äö√Ñ√≤upstream‚Äö√Ñ√¥ market chain samples, suggesting that positive samples from pangolins may be the result of exposure to infected humans, wildlife or other animals within the wildlife trade network.
+These data suggest that pangolins are incidental hosts of coronaviruses.
+These data suggest that pangolins are incidental hosts of coronaviruses.
+These data suggest that pangolins are incidental hosts of coronaviruses.
+These data suggest that pangolins are incidental hosts of coronaviruses.
+On average, symptoms develop 5 days after exposure with a range of 2-14 days.
+On average, symptoms develop 5 days after exposure with a range of 2-14 days.
+On average, symptoms develop 5 days after exposure with a range of 2-14 days.
+On average, symptoms develop 5 days after exposure with a range of 2-14 days.
+On average, symptoms develop 5 days after exposure with a range of 2-14 days.
+On average, symptoms develop 5 days after exposure with a range of 2-14 days.
+On average, symptoms develop 5 days after exposure with a range of 2-14 days.
+Incubating individuals can transmit disease for several days before symptom onset.
+Incubating individuals can transmit disease for several days before symptom onset.
+Incubating individuals can transmit disease for several days before symptom onset.
+Incubating individuals can transmit disease for several days before symptom onset.
+Incubating individuals can transmit disease for several days before symptom onset.
+Some individuals never develop symptoms but can still transmit disease.
+By general consensus, the incubation period of COVID-19 is between 5 and 6 days.
+By general consensus, the incubation period of COVID-19 is between 5 and 6 days.
+However, more recent estimates using different models calculate a longer incubation period, between 7 and 8 days.
+However, more recent estimates using different models calculate a longer incubation period, between 7 and 8 days.
+This could mean that 5-10% of individuals undergoing a 14- day quarantine are still infectious at the end.
+This could mean that 5-10% of individuals undergoing a 14- day quarantine are still infectious at the end.
+This could mean that 5-10% of individuals undergoing a 14- day quarantine are still infectious at the end.
+This could mean that 5-10% of individuals undergoing a 14- day quarantine are still infectious at the end.
+This could mean that 5-10% of individuals undergoing a 14- day quarantine are still infectious at the end.
+This could mean that 5-10% of individuals undergoing a 14- day quarantine are still infectious at the end.
+This could mean that 5-10% of individuals undergoing a 14- day quarantine are still infectious at the end.
+This could mean that 5-10% of individuals undergoing a 14- day quarantine are still infectious at the end.
+There is evidence that younger (<14) and older (>75) individuals have longer COVID-19 incubation periods, creating a U- shaped relationship between incubation period length and patient age while adolescent and young adult populations (15-24 years old) have been estimated at ~2 days.
+There is evidence that younger (<14) and older (>75) individuals have longer COVID-19 incubation periods, creating a U- shaped relationship between incubation period length and patient age while adolescent and young adult populations (15-24 years old) have been estimated at ~2 days.
+There is evidence that younger (<14) and older (>75) individuals have longer COVID-19 incubation periods, creating a U- shaped relationship between incubation period length and patient age while adolescent and young adult populations (15-24 years old) have been estimated at ~2 days.
+There is evidence that younger (<14) and older (>75) individuals have longer COVID-19 incubation periods, creating a U- shaped relationship between incubation period length and patient age while adolescent and young adult populations (15-24 years old) have been estimated at ~2 days.
+Individuals can test positive for COVID-19 even if they lack clinical symptoms.
+Individuals can test positive for COVID-19 even if they lack clinical symptoms.
+Individuals can test positive for COVID-19 even if they lack clinical symptoms.
+Individuals can test positive for COVID-19 even if they lack clinical symptoms.
+Peak infectiousness may be during the incubation period, one day before symptoms develop.
+Peak infectiousness may be during the incubation period, one day before symptoms develop.
+Peak infectiousness may be during the incubation period, one day before symptoms develop.
+It is estimated that most individuals are no longer infectious beyond 10 days after symptom onset.
+It is estimated that most individuals are no longer infectious beyond 10 days after symptom onset.
+It is estimated that most individuals are no longer infectious beyond 10 days after symptom onset.
+It is estimated that most individuals are no longer infectious beyond 10 days after symptom onset.
+A systematic review of published studies on SARS-CoV-1, SARS-CoV-2, and MERS-CoV found none that reported isolation of infectious virus from COVID-19 patients beyond 9 days from symptom onset, despite high viral loads by genetic tests.
+A systematic review of published studies on SARS-CoV-1, SARS-CoV-2, and MERS-CoV found none that reported isolation of infectious virus from COVID-19 patients beyond 9 days from symptom onset, despite high viral loads by genetic tests.
+A systematic review of published studies on SARS-CoV-1, SARS-CoV-2, and MERS-CoV found none that reported isolation of infectious virus from COVID-19 patients beyond 9 days from symptom onset, despite high viral loads by genetic tests.
+A systematic review of published studies on SARS-CoV-1, SARS-CoV-2, and MERS-CoV found none that reported isolation of infectious virus from COVID-19 patients beyond 9 days from symptom onset, despite high viral loads by genetic tests.
+individuals can also transmit infection before symptoms appear.
+individuals can also transmit infection before symptoms appear.
+individuals can also transmit infection before symptoms appear.
+Asymptomatic individuals are estimated to be infectious for a median of 9.5 days.
+Asymptomatic individuals are estimated to be infectious for a median of 9.5 days.
+Asymptomatic individuals are estimated to be infectious for a median of 9.5 days.
+Asymptomatic individuals are estimated to be infectious for a median of 9.5 days.
+Asymptomatic individuals are estimated to be infectious for a median of 9.5 days.
+Asymptomatic individuals are estimated to be infectious for a median of 9.5 days.
+Asymptomatic individuals are estimated to be infectious for a median of 9.5 days.
+Asymptomatic individuals are estimated to be infectious for a median of 9.5 days.
+Asymptomatic individuals are estimated to be infectious for a median of 9.5 days.
+The average time between symptom onset in successive cases (i.e., the serial interval) is approximately 5 days.
+Based on data from 339 transmission chains in China and additional meta-analysis, the mean serial interval is between 4.4 and 6.0 days.
+Based on data from 339 transmission chains in China and additional meta-analysis, the mean serial interval is between 4.4 and 6.0 days.
+Based on data from 339 transmission chains in China and additional meta-analysis, the mean serial interval is between 4.4 and 6.0 days.
+Based on data from 339 transmission chains in China and additional meta-analysis, the mean serial interval is between 4.4 and 6.0 days.
+Based on data from 339 transmission chains in China and additional meta-analysis, the mean serial interval is between 4.4 and 6.0 days.
+Based on data from 339 transmission chains in China and additional meta-analysis, the mean serial interval is between 4.4 and 6.0 days.
+The serial interval of COVID-19 has declined substantially over time as a result of increased case isolation, meaning individuals tend to transmit virus for less time.
+The generation time (time between infection events in a chain of transmission) for SARS-CoV-2 is estimated as 4-5 days.
+The generation time (time between infection events in a chain of transmission) for SARS-CoV-2 is estimated as 4-5 days.
+Viral RNA loads in the upper respiratory tract tend to peak within a few days of symptom onset and become undetectable approximately two weeks after symptoms begin.
+Viral RNA loads in the upper respiratory tract tend to peak within a few days of symptom onset and become undetectable approximately two weeks after symptoms begin.
+Viral RNA loads in the upper respiratory tract tend to peak within a few days of symptom onset and become undetectable approximately two weeks after symptoms begin.
+Viral RNA loads in the upper respiratory tract tend to peak within a few days of symptom onset and become undetectable approximately two weeks after symptoms begin.
+Viral RNA loads in the upper respiratory tract tend to peak within a few days of symptom onset and become undetectable approximately two weeks after symptoms begin.
+Viral RNA loads in the upper respiratory tract tend to peak within a few days of symptom onset and become undetectable approximately two weeks after symptoms begin.
+The duration of the infectious period is unknown, though patients can test positive for SARS-CoV-2 viral RNA for extended periods of time, particularly in stool samples.
+The duration of the infectious period is unknown, though patients can test positive for SARS-CoV-2 viral RNA for extended periods of time, particularly in stool samples.
+Most symptomatic cases are mild, but severe disease can be found in any age group.
+Older individuals and those with underlying conditions are at higher risk of serious illness and death, as are men.
+Older individuals and those with underlying conditions are at higher risk of serious illness and death, as are men.
+Older individuals and those with underlying conditions are at higher risk of serious illness and death, as are men.
+Older individuals and those with underlying conditions are at higher risk of serious illness and death, as are men.
+Older individuals and those with underlying conditions are at higher risk of serious illness and death, as are men.
+Most symptomatic COVID-19 cases are mild (81%).
+Most symptomatic COVID-19 cases are mild (81%).
+Most symptomatic COVID-19 cases are mild (81%).
+Most symptomatic COVID-19 cases are mild (81%).
+Most symptomatic COVID-19 cases are mild (81%).
+Fever, cough, and shortness of breath are the most common symptoms, followed by malaise, fatigue, and sputum/secretion.
+Fever, cough, and shortness of breath are the most common symptoms, followed by malaise, fatigue, and sputum/secretion.
+Fever, cough, and shortness of breath are the most common symptoms, followed by malaise, fatigue, and sputum/secretion.
+Fever, cough, and shortness of breath are the most common symptoms, followed by malaise, fatigue, and sputum/secretion.
+Fever, cough, and shortness of breath are the most common symptoms, followed by malaise, fatigue, and sputum/secretion.
+Fever, cough, and shortness of breath are the most common symptoms, followed by malaise, fatigue, and sputum/secretion.
+In at least one cohort, however (n=1,564), muscle pain (55%) and headache (51%) were more common than cough (49%).
+In at least one cohort, however (n=1,564), muscle pain (55%) and headache (51%) were more common than cough (49%).
+In at least one cohort, however (n=1,564), muscle pain (55%) and headache (51%) were more common than cough (49%).
+In at least one cohort, however (n=1,564), muscle pain (55%) and headache (51%) were more common than cough (49%).
+In at least one cohort, however (n=1,564), muscle pain (55%) and headache (51%) were more common than cough (49%).
+In at least one cohort, however (n=1,564), muscle pain (55%) and headache (51%) were more common than cough (49%).
+In at least one cohort, however (n=1,564), muscle pain (55%) and headache (51%) were more common than cough (49%).
+In at least one cohort, however (n=1,564), muscle pain (55%) and headache (51%) were more common than cough (49%).
+In at least one cohort, however (n=1,564), muscle pain (55%) and headache (51%) were more common than cough (49%).
+Chills, muscle pain, sore throat, loss of taste or smell, gastrointestinal symptoms, neurological symptoms, and dermatological symptoms also occur with COVID-19, and atypical symptoms such as unexplained limb pain may also present with COVID-19.
+Headaches are common, may persist for weeks, and may be associated with shorter disease duration.
+Headaches are common, may persist for weeks, and may be associated with shorter disease duration.
+Headaches are common, may persist for weeks, and may be associated with shorter disease duration.
+Headaches are common, may persist for weeks, and may be associated with shorter disease duration.
+In children, loss of taste or smell, nausea or vomiting, headache, and fever were predictive of COVID-19 infection.
+In children, loss of taste or smell, nausea or vomiting, headache, and fever were predictive of COVID-19 infection.
+In children, loss of taste or smell, nausea or vomiting, headache, and fever were predictive of COVID-19 infection.
+Children were less likely to exhibit cough and loss of taste or smell than adults, but more likely to show sore throat.
+Children were less likely to exhibit cough and loss of taste or smell than adults, but more likely to show sore throat.
+Children were less likely to exhibit cough and loss of taste or smell than adults, but more likely to show sore throat.
+Children were less likely to exhibit cough and loss of taste or smell than adults, but more likely to show sore throat.
+Children were less likely to exhibit cough and loss of taste or smell than adults, but more likely to show sore throat.
+In 49 children with COVID-19 (0-22 years), however, only 51% developed fever.
+In 49 children with COVID-19 (0-22 years), however, only 51% developed fever.
+In older patients, delirium should be considered a symptom of COVID-19 with or without other typical signs.
+In older patients, delirium should be considered a symptom of COVID-19 with or without other typical signs.
+In older patients, delirium should be considered a symptom of COVID-19 with or without other typical signs.
+In older patients, delirium should be considered a symptom of COVID-19 with or without other typical signs.
+In older patients, delirium should be considered a symptom of COVID-19 with or without other typical signs.
+COVID-19 is more severe than seasonal influenza, evidenced by higher ICU admission and mortality rates.
+COVID-19 is more severe than seasonal influenza, evidenced by higher ICU admission and mortality rates.
+COVID-19 is more severe than seasonal influenza, evidenced by higher ICU admission and mortality rates.
+COVID-19 is more severe than seasonal influenza, evidenced by higher ICU admission and mortality rates.
+COVID-19 is more severe than seasonal influenza, evidenced by higher ICU admission and mortality rates.
+Higher SARS-CoV-2 RNA loads on admission have been associated with greater risk of death.
+Higher SARS-CoV-2 RNA loads on admission have been associated with greater risk of death.
+Higher SARS-CoV-2 RNA loads on admission have been associated with greater risk of death.
+Higher SARS-CoV-2 RNA loads on admission have been associated with greater risk of death.
+Higher SARS-CoV-2 RNA loads on admission have been associated with greater risk of death.
+Higher SARS-CoV-2 RNA loads on admission have been associated with greater risk of death.
+Individuals of any age can develop severe symptoms and require ICU care.
+Males are associated with worse outcomes compared to females.
+Males are associated with worse outcomes compared to females.
+Males are associated with worse outcomes compared to females.
+Clotting affects multiple organs and is present in 15-27% of cases.
+Clotting affects multiple organs and is present in 15-27% of cases.
+Clotting affects multiple organs and is present in 15-27% of cases.
+COVID-19 also causes pneumonia, cardiac injury, secondary infection, kidney damage, pancreatitis, arrhythmia, sepsis, stroke, respiratory complications, and shock.
+COVID-19 also causes pneumonia, cardiac injury, secondary infection, kidney damage, pancreatitis, arrhythmia, sepsis, stroke, respiratory complications, and shock.
+COVID-19 also causes pneumonia, cardiac injury, secondary infection, kidney damage, pancreatitis, arrhythmia, sepsis, stroke, respiratory complications, and shock.
+COVID-19 also causes pneumonia, cardiac injury, secondary infection, kidney damage, pancreatitis, arrhythmia, sepsis, stroke, respiratory complications, and shock.
+COVID-19 also causes pneumonia, cardiac injury, secondary infection, kidney damage, pancreatitis, arrhythmia, sepsis, stroke, respiratory complications, and shock.
+COVID-19 symptoms like fatigue and shortness of breath commonly persist for weeks to months after initial onset.
+Most (88%) individuals infected with COVID-19 (n=86) showed evidence of lung damage six weeks after clinical recovery.
+Most (88%) individuals infected with COVID-19 (n=86) showed evidence of lung damage six weeks after clinical recovery.
+Most (88%) individuals infected with COVID-19 (n=86) showed evidence of lung damage six weeks after clinical recovery.
+Approximately 9% of hospitalized patients experience at least 1 hospital readmission (from any cause) within 2 months of COVID-19 recovery, with individuals over 65 showing slightly higher odds of readmission.
+Approximately 9% of hospitalized patients experience at least 1 hospital readmission (from any cause) within 2 months of COVID-19 recovery, with individuals over 65 showing slightly higher odds of readmission.
+Approximately 9% of hospitalized patients experience at least 1 hospital readmission (from any cause) within 2 months of COVID-19 recovery, with individuals over 65 showing slightly higher odds of readmission.
+Between 16% and 76% of cases are asymptomatic throughout the course of their infection, though changing symptom definitions make it difficult to compare asymptomatic fractions through time.
+Between 16% and 76% of cases are asymptomatic throughout the course of their infection, though changing symptom definitions make it difficult to compare asymptomatic fractions through time.
+Between 16% and 76% of cases are asymptomatic throughout the course of their infection, though changing symptom definitions make it difficult to compare asymptomatic fractions through time.
+The case fatality rate (CFR) is unknown, but adults >60 and those with comorbidities are at elevated risk of death.
+Cardiovascular disease, obesity, hypertension, diabetes, cancer, down syndrome, and respiratory conditions all increase the CFR.
+Cardiovascular disease, obesity, hypertension, diabetes, cancer, down syndrome, and respiratory conditions all increase the CFR.
+Cardiovascular disease, obesity, hypertension, diabetes, cancer, down syndrome, and respiratory conditions all increase the CFR.
+Cardiovascular disease, obesity, hypertension, diabetes, cancer, down syndrome, and respiratory conditions all increase the CFR.
+Prior kidney disease may increase disease severity, though age may be the dominant factor.
+Prior kidney disease may increase disease severity, though age may be the dominant factor.
+In Iceland, the overall CFR has been estimated at 0.3-0.6% but increases to ~4% in those over 70 years old.
+In Iceland, the overall CFR has been estimated at 0.3-0.6% but increases to ~4% in those over 70 years old.
+In Iceland, the overall CFR has been estimated at 0.3-0.6% but increases to ~4% in those over 70 years old.
+An estimated overall infection fatality rate for Indiana was calculated as 0.26%, increasing to 1.71% for those >65 years old.
+An estimated overall infection fatality rate for Indiana was calculated as 0.26%, increasing to 1.71% for those >65 years old.
+An estimated overall infection fatality rate for Indiana was calculated as 0.26%, increasing to 1.71% for those >65 years old.
+An estimated overall infection fatality rate for Indiana was calculated as 0.26%, increasing to 1.71% for those >65 years old.
+Minority populations and essential workers are disproportionately affected by COVID-19.
+Minority populations and essential workers are disproportionately affected by COVID-19.
+Black, Asian, and Minority Ethnic populations, including children, acquire SARS-CoV-2 infection at higher rates than other groups and are hospitalized and die disproportionately.
+Black, Asian, and Minority Ethnic populations, including children, acquire SARS-CoV-2 infection at higher rates than other groups and are hospitalized and die disproportionately.
+Black, Asian, and Minority Ethnic populations, including children, acquire SARS-CoV-2 infection at higher rates than other groups and are hospitalized and die disproportionately.
+Black, Asian, and Minority Ethnic populations, including children, acquire SARS-CoV-2 infection at higher rates than other groups and are hospitalized and die disproportionately.
+Black, Asian, and Minority Ethnic populations, including children, acquire SARS-CoV-2 infection at higher rates than other groups and are hospitalized and die disproportionately.
+Hispanic and Black COVID-19 patients tend to die at younger ages than white patients.
+Hispanic and Black COVID-19 patients tend to die at younger ages than white patients.
+Hispanic and Black COVID-19 patients tend to die at younger ages than white patients.
+Hispanic and Black COVID-19 patients tend to die at younger ages than white patients.
+Hispanic, Black, and American Indian children accounted for 78% of early US pediatric deaths (n=121).
+Hispanic, Black, and American Indian children accounted for 78% of early US pediatric deaths (n=121).
+Hispanic, Black, and American Indian children accounted for 78% of early US pediatric deaths (n=121).
+Hispanic, Black, and American Indian children accounted for 78% of early US pediatric deaths (n=121).
+Pregnant women with COVID-19 require ICU care at similar rates as non-pregnant women and are less likely to present with fever and myalgia, but have higher rates of preterm delivery.
+Pregnant women with COVID-19 require ICU care at similar rates as non-pregnant women and are less likely to present with fever and myalgia, but have higher rates of preterm delivery.
+Severity in pregnant women may be associated with underlying conditions such as obesity, and symptom severity may be predicted early.
+Preterm births are more likely in symptomatic patients.
+Preterm births are more likely in symptomatic patients.
+Approximately 25% of pregnant COVID-19 patients had symptoms for at least 8 weeks.
+In the UK, healthcare workers are >7 times more likely to develop severe COVID-19 than non-essential employees.
+In the UK, healthcare workers are >7 times more likely to develop severe COVID-19 than non-essential employees.
+Children are susceptible to COVID-19, though generally show milder or no symptoms.
+Children are susceptible to COVID-19, though generally show milder or no symptoms.
+Children are susceptible to COVID-19, though generally show milder or no symptoms.
+21% to 28% of children (<19 years old) may be asymptomatic.
+21% to 28% of children (<19 years old) may be asymptomatic.
+Most symptomatic children show mild or moderate symptoms.
+Most symptomatic children show mild or moderate symptoms.
+Most symptomatic children show mild or moderate symptoms.
+Most symptomatic children show mild or moderate symptoms.
+Most symptomatic children show mild or moderate symptoms.
+Most symptomatic children show mild or moderate symptoms.
+Children with both severe and moderate initial symptoms can progress to MIS-C.
+Children with both severe and moderate initial symptoms can progress to MIS-C.
+Black children are overrepresented among MIS-C patients.
+Black children are overrepresented among MIS-C patients.
+Black children are overrepresented among MIS-C patients.
+Black children are overrepresented among MIS-C patients.
+Infected patients show productive immune responses, but the duration of any protection is unknown.
+Infected patients show productive immune responses, but the duration of any protection is unknown.
+Infected patients show productive immune responses, but the duration of any protection is unknown.
+Infected patients show productive immune responses, but the duration of any protection is unknown.
+Infected patients show productive immune responses, but the duration of any protection is unknown.
+The longevity of antibody responses and T-cell responses is unknown but appears to be at least several months.
+The longevity of antibody responses and T-cell responses is unknown but appears to be at least several months.
+The longevity of antibody responses and T-cell responses is unknown but appears to be at least several months.
+The longevity of antibody responses and T-cell responses is unknown but appears to be at least several months.
+In a study of healthcare workers in the UK, those with SARS-CoV-2 antibodies from prior exposure (n=1,167) were protected from reinfection for a median of 127 days (no symptomatic reinfection, 3 subsequent positive PCR tests).
+Researchers have found SARS-CoV-2 antibodies circulating in patients for 3-6 months after infection.
+Mild COVID-19 infections can induce detectable immune responses for at least 3 months.
+Antibody levels increase with disease severity and are largely unaffected by patient age.
+Antibody levels increase with disease severity and are largely unaffected by patient age.
+Antibody levels increase with disease severity and are largely unaffected by patient age.
+Antibody levels increase with disease severity and are largely unaffected by patient age.
+Antibody levels increase with disease severity and are largely unaffected by patient age.
+Antibody levels increase with disease severity and are largely unaffected by patient age.
+A UK study found evidence of antibody levels waning after 4-6 months, though the study looked at population-level seroprevalence and not individual antibody levels.
+A UK study found evidence of antibody levels waning after 4-6 months, though the study looked at population-level seroprevalence and not individual antibody levels.
+A UK study found evidence of antibody levels waning after 4-6 months, though the study looked at population-level seroprevalence and not individual antibody levels.
+A UK study found evidence of antibody levels waning after 4-6 months, though the study looked at population-level seroprevalence and not individual antibody levels.
+Neutralizing antibody responses are present within 8-19 days after symptom onset and can persist for months.
+Neutralizing antibody responses are present within 8-19 days after symptom onset and can persist for months.
+Individuals with more severe infections developed higher neutralizing antibody levels that persisted longer than those with asymptomatic or mild infections.
+Individuals with more severe infections developed higher neutralizing antibody levels that persisted longer than those with asymptomatic or mild infections.
+Individuals with more severe infections developed higher neutralizing antibody levels that persisted longer than those with asymptomatic or mild infections.
+Individuals with more severe infections developed higher neutralizing antibody levels that persisted longer than those with asymptomatic or mild infections.
+Strong, early inflammatory immune responses are associated with more severe clinical presentation.
+Strong, early inflammatory immune responses are associated with more severe clinical presentation.
+Strong, early inflammatory immune responses are associated with more severe clinical presentation.
+Strong, early inflammatory immune responses are associated with more severe clinical presentation.
+There appear to be several distinct immunological phenotypes associated with COVID-19, with cytokine storm syndrome present in ~3-4% of patients.
+There appear to be several distinct immunological phenotypes associated with COVID-19, with cytokine storm syndrome present in ~3-4% of patients.
+There appear to be several distinct immunological phenotypes associated with COVID-19, with cytokine storm syndrome present in ~3-4% of patients.
+SARS-CoV-2 specific memory B cells are involved in the human immune response, and provide evidence of B cell-mediated immunity after mild-moderate COVID-19 infection.
+SARS-CoV-2 specific memory B cells are involved in the human immune response, and provide evidence of B cell-mediated immunity after mild-moderate COVID-19 infection.
+SARS-CoV-2 specific memory B cells are involved in the human immune response, and provide evidence of B cell-mediated immunity after mild-moderate COVID-19 infection.
+T-cell responses may persist for at least 6 months, though they appear stronger in individuals with more severe COVID-19 cases.
+T-cell responses may persist for at least 6 months, though they appear stronger in individuals with more severe COVID-19 cases.
+T-cell responses may persist for at least 6 months, though they appear stronger in individuals with more severe COVID-19 cases.
+T-cell responses may persist for at least 6 months, though they appear stronger in individuals with more severe COVID-19 cases.
+T-cell responses may persist for at least 6 months, though they appear stronger in individuals with more severe COVID-19 cases.
+Immune responses appear to differ between symptomatic and asymptomatic COVID-19 patients.
+Immune responses appear to differ between symptomatic and asymptomatic COVID-19 patients.
+Immune responses appear to differ between symptomatic and asymptomatic COVID-19 patients.
+Immune responses appear to differ between symptomatic and asymptomatic COVID-19 patients.
+Immune responses appear to differ between symptomatic and asymptomatic COVID-19 patients.
+Immune responses appear to differ between symptomatic and asymptomatic COVID-19 patients.
+asymptomatic patients appear to mount robust T-cell responses, express higher levels of interferon-gamma and interleukin-2, and have more coordinated production of pro-inflammatory and regulatory cytokines than symptomatic patients.
+asymptomatic patients appear to mount robust T-cell responses, express higher levels of interferon-gamma and interleukin-2, and have more coordinated production of pro-inflammatory and regulatory cytokines than symptomatic patients.
+asymptomatic patients appear to mount robust T-cell responses, express higher levels of interferon-gamma and interleukin-2, and have more coordinated production of pro-inflammatory and regulatory cytokines than symptomatic patients.
+asymptomatic patients appear to mount robust T-cell responses, express higher levels of interferon-gamma and interleukin-2, and have more coordinated production of pro-inflammatory and regulatory cytokines than symptomatic patients.
+In a 35-year study of 10 men, reinfection with seasonal coronaviruses occurred 1-3 years after initial infection.
+In a 35-year study of 10 men, reinfection with seasonal coronaviruses occurred 1-3 years after initial infection.
+Reinfections have been either less or more severe than the initial infection.
+Reinfections have been either less or more severe than the initial infection.
+Reinfections have been either less or more severe than the initial infection.
+The contribution of historical coronavirus exposure to SARS-CoV-2 immunity is unknown.
+The contribution of historical coronavirus exposure to SARS-CoV-2 immunity is unknown.
+The contribution of historical coronavirus exposure to SARS-CoV-2 immunity is unknown.
+The contribution of historical coronavirus exposure to SARS-CoV-2 immunity is unknown.
+Cross-reactivity in T-cell responses between other human coronaviruses and SARS-CoV-2 may explain some variation in symptom severity among patients.
+Key components of the human immune response (memory B cells) are activated by SARS-CoV-2, and may persist for decades to offset any waning antibody immunity.
+Two studies identified key components of the adaptive immune system (CD4+ T cells) in the majority of recovered COVID-19 patients, and these cells reacted to SARS-CoV-2 Spike protein.
+These studies also identified Spike protein responses in CD4+ T cells of ~30-40% of unexposed patients, suggesting some cross-reactivity between other circulating human coronaviruses and SARS-CoV-2.
+Long-lasting T-cell responses have been seen in SARS-CoV-1 patients, and T-cell cross- reactivity between other coronaviruses and SARS-CoV-2 suggest additional immune protection.
+Long-lasting T-cell responses have been seen in SARS-CoV-1 patients, and T-cell cross- reactivity between other coronaviruses and SARS-CoV-2 suggest additional immune protection.
+Children do not appear to be protected from SARS-CoV-2 infection by historical exposure to seasonal coronaviruses.
+Children do not appear to be protected from SARS-CoV-2 infection by historical exposure to seasonal coronaviruses.
+Children do not appear to be protected from SARS-CoV-2 infection by historical exposure to seasonal coronaviruses.
+Children do not appear to be protected from SARS-CoV-2 infection by historical exposure to seasonal coronaviruses.
+Children do not appear to be protected from SARS-CoV-2 infection by historical exposure to seasonal coronaviruses.
+Serum from patients exposed to seasonal coronaviruses did not neutralize SARS-CoV-2, though there has been some cross-reactivity between seasonal coronaviruses and SARS-CoV-2 nucleocapsid (N) protein.
+Serum from patients exposed to seasonal coronaviruses did not neutralize SARS-CoV-2, though there has been some cross-reactivity between seasonal coronaviruses and SARS-CoV-2 nucleocapsid (N) protein.
+Diagnosis of COVID-19 is based on symptoms consistent with COVID-19, PCR-based testing of active cases, and/or the presence of SARS-CoV-2 antibodies in individuals.
+Diagnosis of COVID-19 is based on symptoms consistent with COVID-19, PCR-based testing of active cases, and/or the presence of SARS-CoV-2 antibodies in individuals.
+As of 12/16/2020, the FDA has granted EUAs to 303 diagnostic tests, including 231 molecular, 62 antibody, and 10 antigen tests, which include one for detecting neutralizing antibodies from prior SARS-CoV-2 infection and at-home diagnostic assays for SARS-CoV-2 infection.
+The US CDC recommends that anyone who has been in contact with a positive COVID-19 case should be tested.
+The US CDC recommends that anyone who has been in contact with a positive COVID-19 case should be tested.
+The US CDC recommends that anyone who has been in contact with a positive COVID-19 case should be tested.
+The timing of diagnostic PCR tests impacts results.
+The timing of diagnostic PCR tests impacts results.
+Low viral loads can lead to false-negative RT-PCR tests, and viral loads are lower in late stage infections as well as at the end of a given day.
+Low viral loads can lead to false-negative RT-PCR tests, and viral loads are lower in late stage infections as well as at the end of a given day.
+The duration of PCR-detectable viral samples is longer in the lower respiratory tract than the upper respiratory tract; nasopharyngeal sampling is most effective (89%) between 0 and 4 days after symptom onset but falls significantly (to 54%) by 10 to 14 days.
+The duration of PCR-detectable viral samples is longer in the lower respiratory tract than the upper respiratory tract; nasopharyngeal sampling is most effective (89%) between 0 and 4 days after symptom onset but falls significantly (to 54%) by 10 to 14 days.
+After 10 days, alternative testing methods (e.g., lower respiratory samples) may be necessary.
+Nasal and pharyngeal swabs may be less effective diagnostically than sputum and bronchoalveolar lavage fluid, although evidence is mixed.
+Assays targeting antibodies against the nucleocapsid protein (N) instead of the Spike protein (S) of SARS-CoV-2 may improve detection.
+Assays targeting antibodies against the nucleocapsid protein (N) instead of the Spike protein (S) of SARS-CoV-2 may improve detection.
+Newer tests target up to three viral components, demonstrating high sensitivity and specificity.
+Newer tests target up to three viral components, demonstrating high sensitivity and specificity.
+Foam swabs lead to more accurate diagnostic tests than polyester swabs for collecting patient samples, though polyester swabs are good enough to be used in case of a shortage in foam swabs.
+Foam swabs lead to more accurate diagnostic tests than polyester swabs for collecting patient samples, though polyester swabs are good enough to be used in case of a shortage in foam swabs.
+Foam swabs lead to more accurate diagnostic tests than polyester swabs for collecting patient samples, though polyester swabs are good enough to be used in case of a shortage in foam swabs.
+Foam swabs lead to more accurate diagnostic tests than polyester swabs for collecting patient samples, though polyester swabs are good enough to be used in case of a shortage in foam swabs.
+Foam swabs lead to more accurate diagnostic tests than polyester swabs for collecting patient samples, though polyester swabs are good enough to be used in case of a shortage in foam swabs.
+Foam swabs lead to more accurate diagnostic tests than polyester swabs for collecting patient samples, though polyester swabs are good enough to be used in case of a shortage in foam swabs.
+Asymptomatic individuals are more likely to test negative for a specific antibody (IgG) compared to symptomatic patients.
+Asymptomatic individuals are more likely to test negative for a specific antibody (IgG) compared to symptomatic patients.
+Asymptomatic individuals are more likely to test negative for a specific antibody (IgG) compared to symptomatic patients.
+Asymptomatic individuals are more likely to test negative for a specific antibody (IgG) compared to symptomatic patients.
+Asymptomatic individuals are more likely to test negative for a specific antibody (IgG) compared to symptomatic patients.
+Asymptomatic individuals are more likely to test negative for a specific antibody (IgG) compared to symptomatic patients.
+India has approved a rapid CRISPR-based test paper capable of accurate results within an hour of nasopharyngeal swab.
+India has approved a rapid CRISPR-based test paper capable of accurate results within an hour of nasopharyngeal swab.
+Low-sensitivity tests (like lateral flow assays) may be beneficial despite lower accuracy, because they reduce the time necessary to identify and subsequently contain potential outbreaks.
+Low-sensitivity tests (like lateral flow assays) may be beneficial despite lower accuracy, because they reduce the time necessary to identify and subsequently contain potential outbreaks.
+Low-sensitivity tests (like lateral flow assays) may be beneficial despite lower accuracy, because they reduce the time necessary to identify and subsequently contain potential outbreaks.
+Immunological indicators, blood glucose levels, oxygen levels and bilirubin levels may help identify future severe cases, and decision-support tools for diagnosing severe infections exist.
+Immunological indicators, blood glucose levels, oxygen levels and bilirubin levels may help identify future severe cases, and decision-support tools for diagnosing severe infections exist.
+Detection dogs are being used at airports to recommend individuals for subsequent SARS-CoV-2 PCR testing.
+Detection dogs are being used at airports to recommend individuals for subsequent SARS-CoV-2 PCR testing.
+High-throughput diagnostic are comparable in sensitivity and specificity to PCR, and may increase sampling speed.
+Some skin manifestations of COVID-19 may be diagnostic, in particular those associated with inflammatory reactions.
+Some skin manifestations of COVID-19 may be diagnostic, in particular those associated with inflammatory reactions.
+Some skin manifestations of COVID-19 may be diagnostic, in particular those associated with inflammatory reactions.
+Some skin manifestations of COVID-19 may be diagnostic, in particular those associated with inflammatory reactions.
+Some skin manifestations of COVID-19 may be diagnostic, in particular those associated with inflammatory reactions.
+Some skin manifestations of COVID-19 may be diagnostic, in particular those associated with inflammatory reactions.
+Validated serological (antibody) assays are being used to help determine who has been exposed to SARS-CoV-2.
+Validated serological (antibody) assays are being used to help determine who has been exposed to SARS-CoV-2.
+Validated serological (antibody) assays are being used to help determine who has been exposed to SARS-CoV-2.
+Validated serological (antibody) assays are being used to help determine who has been exposed to SARS-CoV-2.
+Validated serological (antibody) assays are being used to help determine who has been exposed to SARS-CoV-2.
+Validated serological (antibody) assays are being used to help determine who has been exposed to SARS-CoV-2.
+Repeated serological testing is necessary to identify asymptomatic and other undetected patients.
+Repeated serological testing is necessary to identify asymptomatic and other undetected patients.
+Repeated serological testing is necessary to identify asymptomatic and other undetected patients.
+Repeated serological testing is necessary to identify asymptomatic and other undetected patients.
+Exclusively testing symptomatic healthcare workers is likely to exclude a large fraction of COVID-19 positive personnel.
+Research has shown high variability in the ability of tests by different manufacturers to accurately detect positive and negative cases.
+Research has shown high variability in the ability of tests by different manufacturers to accurately detect positive and negative cases.
+Research has shown high variability in the ability of tests by different manufacturers to accurately detect positive and negative cases.
+Meta-analysis suggests that lateral flow assays (LFIA) are less accurate than ELISA or chemiluminescent methods (CLIA), but that the target of serological studies (e.g., IgG or IgM) does not affect accuracy.
+Meta-analysis suggests that lateral flow assays (LFIA) are less accurate than ELISA or chemiluminescent methods (CLIA), but that the target of serological studies (e.g., IgG or IgM) does not affect accuracy.
+Meta-analysis suggests that lateral flow assays (LFIA) are less accurate than ELISA or chemiluminescent methods (CLIA), but that the target of serological studies (e.g., IgG or IgM) does not affect accuracy.
+There is no universally effective treatment for COVID-19, but some treatments reduce disease severity and mortality.
+There is no universally effective treatment for COVID-19, but some treatments reduce disease severity and mortality.
+There is no universally effective treatment for COVID-19, but some treatments reduce disease severity and mortality.
+There is no universally effective treatment for COVID-19, but some treatments reduce disease severity and mortality.
+There is no universally effective treatment for COVID-19, but some treatments reduce disease severity and mortality.
+There is no universally effective treatment for COVID-19, but some treatments reduce disease severity and mortality.
+There is no universally effective treatment for COVID-19, but some treatments reduce disease severity and mortality.
+There is no universally effective treatment for COVID-19, but some treatments reduce disease severity and mortality.
+There is no universally effective treatment for COVID-19, but some treatments reduce disease severity and mortality.
+There is no universally effective treatment for COVID-19, but some treatments reduce disease severity and mortality.
+Remdesivir may reduce symptom duration in hospitalized patients, and may reduce mortality when combined with other treatment regimens (e.g., baricitinab).
+Remdesivir may reduce symptom duration in hospitalized patients, and may reduce mortality when combined with other treatment regimens (e.g., baricitinab).
+Corticosteroids may significantly reduce mortality in severely ill and ventilated patients, especially if given early.
+Corticosteroids may significantly reduce mortality in severely ill and ventilated patients, especially if given early.
+Corticosteroids may significantly reduce mortality in severely ill and ventilated patients, especially if given early.
+The benefits of glucocorticoids may depend heavily on patient inflammation.
+Convalescent plasma treatment is safe and may be effective when administered early, though evidence is mixed.
+Convalescent plasma treatment is safe and may be effective when administered early, though evidence is mixed.
+Convalescent plasma treatment is safe and may be effective when administered early, though evidence is mixed.
+Convalescent plasma treatment is safe and may be effective when administered early, though evidence is mixed.
+Convalescent plasma treatment is safe and may be effective when administered early, though evidence is mixed.
+Convalescent plasma treatment is safe and may be effective when administered early, though evidence is mixed.
+A large trial of plasma therapy (>25,000 patients) shows that treatment is safe, with some evidence that it can reduce 7-day mortality.
+Plasma therapy shows larger reductions in mortality when administered within 44 hours of hospital admission, and donor plasma with higher antibody levels appears more effective.
+Plasma therapy shows larger reductions in mortality when administered within 44 hours of hospital admission, and donor plasma with higher antibody levels appears more effective.
+Plasma therapy shows larger reductions in mortality when administered within 44 hours of hospital admission, and donor plasma with higher antibody levels appears more effective.
+Plasma therapy shows larger reductions in mortality when administered within 44 hours of hospital admission, and donor plasma with higher antibody levels appears more effective.
+Plasma therapy shows larger reductions in mortality when administered within 44 hours of hospital admission, and donor plasma with higher antibody levels appears more effective.
+Plasma therapy shows larger reductions in mortality when administered within 44 hours of hospital admission, and donor plasma with higher antibody levels appears more effective.
+Plasma therapy shows larger reductions in mortality when administered within 44 hours of hospital admission, and donor plasma with higher antibody levels appears more effective.
+Even high-titer donor plasma, however, did not substantially improve outcomes in a clinical trial with severe COVID-19 patients (n=228).
+Both therapeutic and prophylactic use of anticoagulants has been associated with significant (~50%) reduction in mortality in hospitalized COVID-19 patients.
+Both therapeutic and prophylactic use of anticoagulants has been associated with significant (~50%) reduction in mortality in hospitalized COVID-19 patients.
+Both therapeutic and prophylactic use of anticoagulants has been associated with significant (~50%) reduction in mortality in hospitalized COVID-19 patients.
+Anticoagulant use was associated with lower mortality in the severely ill, but the correct dose is critical to avoid complications.
+Anticoagulant use was associated with lower mortality in the severely ill, but the correct dose is critical to avoid complications.
+High doses of anticoagulants may be effective in critically ill patients.
+High doses of anticoagulants may be effective in critically ill patients.
+Patients 65 years and up receiving chronic anticoagulant treatment showed higher survival than propensity-matched controls.
+The benefits of tocilizumab are unclear, and it can increase hospital stay time and the risk of secondary infection.
+The benefits of tocilizumab are unclear, and it can increase hospital stay time and the risk of secondary infection.
+The benefits of tocilizumab are unclear, and it can increase hospital stay time and the risk of secondary infection.
+The benefits of tocilizumab are unclear, and it can increase hospital stay time and the risk of secondary infection.
+While tocilizumab appears to show a 12% reduction in mortality in treated patients, a randomized clinical trial found no effects on mortality, and other evidence suggests that it may be beneficial only in certain circumstances.
+While tocilizumab appears to show a 12% reduction in mortality in treated patients, a randomized clinical trial found no effects on mortality, and other evidence suggests that it may be beneficial only in certain circumstances.
+While tocilizumab appears to show a 12% reduction in mortality in treated patients, a randomized clinical trial found no effects on mortality, and other evidence suggests that it may be beneficial only in certain circumstances.
+Other pharmaceutical interventions are being investigated but results from large clinical trials are needed.
+Regeneron‚Äö√Ñ√¥s REGN-COV2 monoclonal antibody has been associated with reductions in symptom duration.
+Anakinra has shown clinical benefits in small observational studies, and may be effective with methylprednisolone.
+Anakinra has shown clinical benefits in small observational studies, and may be effective with methylprednisolone.
+Anakinra has shown clinical benefits in small observational studies, and may be effective with methylprednisolone.
+Favipiravir may reduce the duration of clinical symptoms and reduce the time for viral clearance.
+Favipiravir may reduce the duration of clinical symptoms and reduce the time for viral clearance.
+Favipiravir may reduce the duration of clinical symptoms and reduce the time for viral clearance.
+Statins and RAAS inhibitors (for hypertension) do not appear to elevate COVID-19 risk and may protect against mortality in elderly patients who continue taking them.
+Statins and RAAS inhibitors (for hypertension) do not appear to elevate COVID-19 risk and may protect against mortality in elderly patients who continue taking them.
+Statins and RAAS inhibitors (for hypertension) do not appear to elevate COVID-19 risk and may protect against mortality in elderly patients who continue taking them.
+Statins and RAAS inhibitors (for hypertension) do not appear to elevate COVID-19 risk and may protect against mortality in elderly patients who continue taking them.
+Vitamin D (with vitamin B12 and magnesium) may reduce the need for ventilation in COVID-19 patients.
+Vitamin D (with vitamin B12 and magnesium) may reduce the need for ventilation in COVID-19 patients.
+Acalabrutinib may improve patient oxygenation, and is being included in large clinical trials (SOLIDARITY).
+Acalabrutinib may improve patient oxygenation, and is being included in large clinical trials (SOLIDARITY).
+Colchicine may reduce rates of intubation and mortality.
+Colchicine may reduce rates of intubation and mortality.
+Colchicine may reduce rates of intubation and mortality.
+Colchicine may reduce rates of intubation and mortality.
+Colchicine may reduce rates of intubation and mortality.
+Colchicine may reduce rates of intubation and mortality.
+IV immunoglobulin reduced the need for mechanical ventilation in a small trial (n=16).
+IV immunoglobulin reduced the need for mechanical ventilation in a small trial (n=16).
+IV immunoglobulin reduced the need for mechanical ventilation in a small trial (n=16).
+IV immunoglobulin reduced the need for mechanical ventilation in a small trial (n=16).
+IV immunoglobulin reduced the need for mechanical ventilation in a small trial (n=16).
+IV immunoglobulin reduced the need for mechanical ventilation in a small trial (n=16).
+Androgen has been suggested as a factor in disease severity in men, and treatment options are in trial.
+Androgen has been suggested as a factor in disease severity in men, and treatment options are in trial.
+Androgen has been suggested as a factor in disease severity in men, and treatment options are in trial.
+Androgen has been suggested as a factor in disease severity in men, and treatment options are in trial.
+Androgen has been suggested as a factor in disease severity in men, and treatment options are in trial.
+Androgen has been suggested as a factor in disease severity in men, and treatment options are in trial.
+Insulin use may increase mortality risk compared to other type 2 diabetes treatments such as metformin.
+Other common side effects included pain at the injection site and muscle pain.
+Storage and shipping requirements are -70¬¨‚àûC; once thawed, the vaccine vial can be stored for up to 5 days at refrigerated (2‚Äö√Ñ√¨8¬¨‚àûC) conditions.
+Broad-scale control measures such as stay-at-home orders and widespread face mask use effectively reduce transmission and are more impactful when implemented simultaneously.
+Broad-scale control measures such as stay-at-home orders and widespread face mask use effectively reduce transmission and are more impactful when implemented simultaneously.
+Public health notifications increase adherence to policies.
+Public health notifications increase adherence to policies.
+Social distancing and other policies quickly reduced spread throughout China, Europe, and the US.
+Social distancing and other policies quickly reduced spread throughout China, Europe, and the US.
+In China, modeling suggests that a one-day delay in implementing control measures increased the time needed to curtail an outbreak by 2.4 days.
+In China, modeling suggests that a one-day delay in implementing control measures increased the time needed to curtail an outbreak by 2.4 days.
+In China, modeling suggests that a one-day delay in implementing control measures increased the time needed to curtail an outbreak by 2.4 days.
+Reductions in transmission are generally visible 6-9 days after the implementation of NPIs, and increased transmission is generally visible 14-20 days after NPIs are lifted.
+Reductions in transmission are generally visible 6-9 days after the implementation of NPIs, and increased transmission is generally visible 14-20 days after NPIs are lifted.
+Reductions in transmission are generally visible 6-9 days after the implementation of NPIs, and increased transmission is generally visible 14-20 days after NPIs are lifted.
+US counties with mask mandates have lower case growth rates than neighboring counties lacking mask mandates.
+US counties with mask mandates have lower case growth rates than neighboring counties lacking mask mandates.
+US counties with mask mandates have lower case growth rates than neighboring counties lacking mask mandates.
+US counties with mask mandates have lower case growth rates than neighboring counties lacking mask mandates.
+US counties with mask mandates have lower case growth rates than neighboring counties lacking mask mandates.
+US counties with mask mandates have lower case growth rates than neighboring counties lacking mask mandates.
+Modeling suggests that widespread use of facemasks is effective at reducing transmission even when individual mask efficiency is low, though their benefits are maximized when most of the population wears masks.
+Modeling suggests that widespread use of facemasks is effective at reducing transmission even when individual mask efficiency is low, though their benefits are maximized when most of the population wears masks.
+School closures and cancellation of large gatherings had smaller effects.
+School closures and cancellation of large gatherings had smaller effects.
+School closures and cancellation of large gatherings had smaller effects.
+Adherence to social distancing policies depends on income.
+Mobility reductions in the US have been associated with significant reductions in COVID-19 case growth.
+Mobility reductions in the US have been associated with significant reductions in COVID-19 case growth.
+Mobility reductions in the US have been associated with significant reductions in COVID-19 case growth.
+Mobility reductions in the US have been associated with significant reductions in COVID-19 case growth.
+Social distancing and reductions in both non-essential visits to stores and overall movement distance led to lower transmission rates.
+Social distancing and reductions in both non-essential visits to stores and overall movement distance led to lower transmission rates.
+Social distancing and reductions in both non-essential visits to stores and overall movement distance led to lower transmission rates.
+Social distancing and reductions in both non-essential visits to stores and overall movement distance led to lower transmission rates.
+School closures alone appear insufficient, though likely reduced mortality in the UK and the US.
+Increasing air flow rates in indoor environments, improving mechanical filtration efficiency, and wearing masks may also reduce indoor transmission rates.
+Increasing air flow rates in indoor environments, improving mechanical filtration efficiency, and wearing masks may also reduce indoor transmission rates.
+Increasing air flow rates in indoor environments, improving mechanical filtration efficiency, and wearing masks may also reduce indoor transmission rates.
+In the US, limiting transmission in younger populations is crucial for reducing hospitalizations and mortality in older cohorts.
+In the US, limiting transmission in younger populations is crucial for reducing hospitalizations and mortality in older cohorts.
+Individual behaviors (e.g., face masks, social distancing) have been associated with reduced risk of COVID-19 infection.
+The US CDC recommends universal masking when indoors to inhibit the spread of COVID-19, alongside physical distancing, avoiding nonessential indoor and crowded outdoor spaces, postponing travel, and increasing ventilation and disinfection.
+The US CDC recommends universal masking when indoors to inhibit the spread of COVID-19, alongside physical distancing, avoiding nonessential indoor and crowded outdoor spaces, postponing travel, and increasing ventilation and disinfection.
+The US CDC recommends universal masking when indoors to inhibit the spread of COVID-19, alongside physical distancing, avoiding nonessential indoor and crowded outdoor spaces, postponing travel, and increasing ventilation and disinfection.
+Particle physics modeling suggests that 2m physical distancing is generally sufficient for reduction of SARS-CoV-2 aerosols expressed during coughs, though smaller particles can travel farther, and wind direction and speed may play a role.
+Particle physics modeling suggests that 2m physical distancing is generally sufficient for reduction of SARS-CoV-2 aerosols expressed during coughs, though smaller particles can travel farther, and wind direction and speed may play a role.
+Particle physics modeling suggests that 2m physical distancing is generally sufficient for reduction of SARS-CoV-2 aerosols expressed during coughs, though smaller particles can travel farther, and wind direction and speed may play a role.
+A Danish study found that mask use was not associated with protection from COVID-19 infection, but suffered from limitations in timing (i.e., low COVID-19 prevalence) and self-reporting, and did not assess reductions in emission rates.
+Particular focus should be placed on minimizing large gatherings where superspreading events are more likely.
+Particular focus should be placed on minimizing large gatherings where superspreading events are more likely.
+Particular focus should be placed on minimizing large gatherings where superspreading events are more likely.
+Retrospective contact tracing may help identify the source of large clusters of cases, and should be implemented due to the overdispersion or heterogeneity in secondary transmission arising from each primary COVID-19 case.
+Retrospective contact tracing may help identify the source of large clusters of cases, and should be implemented due to the overdispersion or heterogeneity in secondary transmission arising from each primary COVID-19 case.
+Retrospective contact tracing may help identify the source of large clusters of cases, and should be implemented due to the overdispersion or heterogeneity in secondary transmission arising from each primary COVID-19 case.
+There are multiple types of superspreading events, and different policies are required to mitigate risks from each.
+There are multiple types of superspreading events, and different policies are required to mitigate risks from each.
+There are multiple types of superspreading events, and different policies are required to mitigate risks from each.
+There are multiple types of superspreading events, and different policies are required to mitigate risks from each.
+In South Korea, early implementation of rapid contact tracing, testing, and quarantine was able to reduce the transmission rate of COVID-19.
+In South Korea, early implementation of rapid contact tracing, testing, and quarantine was able to reduce the transmission rate of COVID-19.
+In South Korea, early implementation of rapid contact tracing, testing, and quarantine was able to reduce the transmission rate of COVID-19.
+In South Korea, early implementation of rapid contact tracing, testing, and quarantine was able to reduce the transmission rate of COVID-19.
+Contact tracing and high levels of testing and physical distancing352 may limit COVID-19 resurgence.
+Contact tracing and high levels of testing and physical distancing352 may limit COVID-19 resurgence.
+Modeling suggests that periods of social distancing or lock-down may be effective in reducing exposure from asymptomatic cases.
+Testing is critical to balancing public health and economic costs.
+Testing is critical to balancing public health and economic costs.
+Testing is critical to balancing public health and economic costs.
+Testing is critical to balancing public health and economic costs.
+Testing is critical to balancing public health and economic costs.
+Undetected cases can lead to elevated risk of re-emergence after restrictions are lifted.
+Undetected cases can lead to elevated risk of re-emergence after restrictions are lifted.
+Undetected cases can lead to elevated risk of re-emergence after restrictions are lifted.
+Undetected cases can lead to elevated risk of re-emergence after restrictions are lifted.
+Undetected cases can lead to elevated risk of re-emergence after restrictions are lifted.
+Undetected cases can lead to elevated risk of re-emergence after restrictions are lifted.
+Modeling shows that travel restrictions are likely to have the greatest impact at reducing SARS-CoV-2 transmission in countries that are highly connected to those with high incidence, and also in countries with low incidence.
+SARS-CoV-2 can survive on surfaces from hours to days and is stable in air for at least several hours, depending on the presence of UV light, temperature, and humidity.
+SARS-CoV-2 can survive on surfaces from hours to days and is stable in air for at least several hours, depending on the presence of UV light, temperature, and humidity.
+Viable SARS-CoV-2 and/or RNA can be recovered from contaminated surfaces; however, survivability varies.
+Viable SARS-CoV-2 and/or RNA can be recovered from contaminated surfaces; however, survivability varies.
+Viable SARS-CoV-2 and/or RNA can be recovered from contaminated surfaces; however, survivability varies.
+Both temperature and humidity contribute to SARS-CoV-2 survival on nonporous surfaces, with cooler, less humid environments facilitating survival (stainless steel, ABS plastic, and nitrile rubber; indoors only; simulated saliva matrix).
+Persistence is reduced with warmer temperatures (37¬¨‚àûC), and enhanced at colder temperatures (4¬¨‚àûC).
+SARS-CoV-2 was shown to be stable up to 7 days (25-27¬¨‚àûC; 35% RH) on smooth surfaces, to include plastic, stainless steel, glass, ceramics, wood, latex gloves, and surgical masks.
+SARS-CoV-2 was shown to be stable up to 7 days (25-27¬¨‚àûC; 35% RH) on smooth surfaces, to include plastic, stainless steel, glass, ceramics, wood, latex gloves, and surgical masks.
+At 22¬¨‚àûC, SARS-CoV-2 was shown to be detectable (via plaque assay) on paper currency for up to 24 hours, on clothing for up to 4 hours, and on skin for up to 96 hours.
+SARS-CoV-2 was found to be stable across pH 3-10 on several surfaces at 22¬¨‚àûC.
+It is estimated that at least 1,000 viral particles per 25 cm2 are needed to detect SARS-CoV-2 RNA on surfaces.
+In the absence of sunlight, infectious SARS-CoV-2 can remain on non-porous (e.g., glass, vinyl) surfaces for at least 28 days at 20¬¨‚àûC and 50% RH; higher temperatures greatly reduce the environmental stability of SARS-CoV-2.
+In the absence of sunlight, infectious SARS-CoV-2 can remain on non-porous (e.g., glass, vinyl) surfaces for at least 28 days at 20¬¨‚àûC and 50% RH; higher temperatures greatly reduce the environmental stability of SARS-CoV-2.
+In the absence of sunlight, infectious SARS-CoV-2 can remain on non-porous (e.g., glass, vinyl) surfaces for at least 28 days at 20¬¨‚àûC and 50% RH; higher temperatures greatly reduce the environmental stability of SARS-CoV-2.
+In simulated saliva on stainless steel surfaces, SARS-CoV-2 shows negligible decay over 60 minutes in darkness, but loses 90% of infectivity every 6.8-12.8 minutes, depending on simulated UVB radiation.
+In simulated saliva on stainless steel surfaces, SARS-CoV-2 shows negligible decay over 60 minutes in darkness, but loses 90% of infectivity every 6.8-12.8 minutes, depending on simulated UVB radiation.
+In simulated saliva on stainless steel surfaces, SARS-CoV-2 shows negligible decay over 60 minutes in darkness, but loses 90% of infectivity every 6.8-12.8 minutes, depending on simulated UVB radiation.
+In simulated saliva on stainless steel surfaces, SARS-CoV-2 shows negligible decay over 60 minutes in darkness, but loses 90% of infectivity every 6.8-12.8 minutes, depending on simulated UVB radiation.
+In simulated saliva on stainless steel surfaces, SARS-CoV-2 shows negligible decay over 60 minutes in darkness, but loses 90% of infectivity every 6.8-12.8 minutes, depending on simulated UVB radiation.
+The Department of Homeland Security (DHS) developed a data-based model for SARS-CoV-2 decay on inert surfaces (stainless steel, ABS plastic and nitrile rubber) at varying temperature and relative humidity without sunlight.
+The Department of Homeland Security (DHS) developed a data-based model for SARS-CoV-2 decay on inert surfaces (stainless steel, ABS plastic and nitrile rubber) at varying temperature and relative humidity without sunlight.
+The Department of Homeland Security (DHS) developed a data-based model for SARS-CoV-2 decay on inert surfaces (stainless steel, ABS plastic and nitrile rubber) at varying temperature and relative humidity without sunlight.
+Due to the effects of evaporation, modeling suggests that hot, dry conditions increase the aerosol risk of SARS-CoV-2, though cold, humid conditions facilitate transmission by droplet spread.
+Due to the effects of evaporation, modeling suggests that hot, dry conditions increase the aerosol risk of SARS-CoV-2, though cold, humid conditions facilitate transmission by droplet spread.
+Experimental studies using SARS-CoV-2 aerosols (1.78-1.96 ≈í¬∫m mass median aerodynamic diameter in artificial saliva matrix) found that simulated sunlight rapidly inactivates the virus, with 90% reductions in infectious concentration after 6 minutes in high-intensity sunlight (similar to mid-June) and 19 minutes in low-intensity sunlight (similar to early March or October).
+Experimental studies using SARS-CoV-2 aerosols (1.78-1.96 ≈í¬∫m mass median aerodynamic diameter in artificial saliva matrix) found that simulated sunlight rapidly inactivates the virus, with 90% reductions in infectious concentration after 6 minutes in high-intensity sunlight (similar to mid-June) and 19 minutes in low-intensity sunlight (similar to early March or October).
+Experimental studies using SARS-CoV-2 aerosols (1.78-1.96 ≈í¬∫m mass median aerodynamic diameter in artificial saliva matrix) found that simulated sunlight rapidly inactivates the virus, with 90% reductions in infectious concentration after 6 minutes in high-intensity sunlight (similar to mid-June) and 19 minutes in low-intensity sunlight (similar to early March or October).
+In dark conditions, the half-life of aerosolized SARS-CoV-2 is approximately 86 minutes in simulated saliva matrix.
+Humidity alone had no significant impact on aerosolized virus survival.
+Humidity alone had no significant impact on aerosolized virus survival.
+SARS-CoV-2 was shown to have an aerosol half-life of 2.7 hours (without sunlight, particles <5 ≈í¬∫m, tested at 21-23¬¨‚àûC and 65% RH),673 retaining infectivity for up to 16 hours in appropriate conditions (23¬¨‚àûC, 53% RH, no sunlight).
+SARS-CoV-2 was shown to have an aerosol half-life of 2.7 hours (without sunlight, particles <5 ≈í¬∫m, tested at 21-23¬¨‚àûC and 65% RH),673 retaining infectivity for up to 16 hours in appropriate conditions (23¬¨‚àûC, 53% RH, no sunlight).
+Stability of SARS-CoV-2 RNA in clinical samples depends on temperature and transport medium.
+Stability of SARS-CoV-2 RNA in clinical samples depends on temperature and transport medium.
+Stability of SARS-CoV-2 RNA in clinical samples depends on temperature and transport medium.
+Stability of SARS-CoV-2 RNA in clinical samples depends on temperature and transport medium.
+RNA in clinical samples collected in viral transport medium is stable at 18-25¬¨‚àûC or 2-8¬¨‚àûC for up to 21 days without impacting real-time RT-PCR results.
+RNA in clinical samples collected in viral transport medium is stable at 18-25¬¨‚àûC or 2-8¬¨‚àûC for up to 21 days without impacting real-time RT-PCR results.
+RNA in clinical samples is also stable at 4¬¨‚àûC for up for 4 weeks with regard to quantitative RT-PCR testing (given that the sample contains 5,000 copies/mL).
+RNA in clinical samples is also stable at 4¬¨‚àûC for up for 4 weeks with regard to quantitative RT-PCR testing (given that the sample contains 5,000 copies/mL).
+There is currently no evidence that SARS-CoV-2 is transmitted to people through food.
+There is no documented evidence that food, food packaging, or food handling is a significant source of COVID-19 infections, though several outbreaks have a hypothesized food origin.
+There is no documented evidence that food, food packaging, or food handling is a significant source of COVID-19 infections, though several outbreaks have a hypothesized food origin.
+There is no documented evidence that food, food packaging, or food handling is a significant source of COVID-19 infections, though several outbreaks have a hypothesized food origin.
+There is no documented evidence that food, food packaging, or food handling is a significant source of COVID-19 infections, though several outbreaks have a hypothesized food origin.
+SARS-CoV-2 is susceptible to heat treatment (70¬¨‚àûC) but can persist for at least two weeks at refrigerated temperatures (4¬¨‚àûC).
+SARS-CoV-2 is susceptible to heat treatment (70¬¨‚àûC) but can persist for at least two weeks at refrigerated temperatures (4¬¨‚àûC).
+SARS-CoV-2 maintains infectivity for at least 21 days when inoculated on frozen foods and stored below -20¬¨‚àûC.
+Soap and water, as well as common alcohol and chlorine-based cleaners, hand sanitizers, and disinfectants are effective at inactivating SARS-CoV-2 on hands and surfaces.
+Soap and water, as well as common alcohol and chlorine-based cleaners, hand sanitizers, and disinfectants are effective at inactivating SARS-CoV-2 on hands and surfaces.
+Soap and water, as well as common alcohol and chlorine-based cleaners, hand sanitizers, and disinfectants are effective at inactivating SARS-CoV-2 on hands and surfaces.
+Soap and water, as well as common alcohol and chlorine-based cleaners, hand sanitizers, and disinfectants are effective at inactivating SARS-CoV-2 on hands and surfaces.
+Soap and water, as well as common alcohol and chlorine-based cleaners, hand sanitizers, and disinfectants are effective at inactivating SARS-CoV-2 on hands and surfaces.
+Soap and water, as well as common alcohol and chlorine-based cleaners, hand sanitizers, and disinfectants are effective at inactivating SARS-CoV-2 on hands and surfaces.
+Soap and water, as well as common alcohol and chlorine-based cleaners, hand sanitizers, and disinfectants are effective at inactivating SARS-CoV-2 on hands and surfaces.
+A systematic review identified sunlight, UV light, ethanol, hydrogen peroxide, and hypochlorite as methods to reduce surface contamination.
+A systematic review identified sunlight, UV light, ethanol, hydrogen peroxide, and hypochlorite as methods to reduce surface contamination.
+A systematic review identified sunlight, UV light, ethanol, hydrogen peroxide, and hypochlorite as methods to reduce surface contamination.
+A systematic review identified sunlight, UV light, ethanol, hydrogen peroxide, and hypochlorite as methods to reduce surface contamination.
+A systematic review identified sunlight, UV light, ethanol, hydrogen peroxide, and hypochlorite as methods to reduce surface contamination.
+Alcohol-based hand rubs are effective at inactivating SARS-CoV-2.
+Chlorine bleach (1%, 2%), 70% ethanol and 0.05% chlorhexidine are effective against live virus in lab tests.
+Chlorine bleach (1%, 2%), 70% ethanol and 0.05% chlorhexidine are effective against live virus in lab tests.
+Chlorine bleach (1%, 2%), 70% ethanol and 0.05% chlorhexidine are effective against live virus in lab tests.
+Twice-daily cleaning with sodium dichloroisocyanurate decontaminated surfaces in COVID-19 patient hospital rooms.
+Twice-daily cleaning with sodium dichloroisocyanurate decontaminated surfaces in COVID-19 patient hospital rooms.
+Chlorhexidine digluconate may be ineffective.
+Masks with laser-induced graphene have previously shown antibacterial properties, and may facilitate mask decontamination, particularly when masks are exposed to sunlight.
+Peracetic acid dry fogging was shown to be effective at inactivating SARS-CoV-2 on stainless steel coupons, simulating whole-room fumigation.
+Several methods exist for decontaminating N95 respirators and other PPE.
+Researchers have identified four methods capable of decontaminating N95 respirators while maintaining physical integrity (fit factor) UV radiation, heating to 70¬¨‚àûC, and vaporized hydrogen peroxide (VHP).
+Researchers have identified four methods capable of decontaminating N95 respirators while maintaining physical integrity (fit factor) UV radiation, heating to 70¬¨‚àûC, and vaporized hydrogen peroxide (VHP).
+Researchers have identified four methods capable of decontaminating N95 respirators while maintaining physical integrity (fit factor) UV radiation, heating to 70¬¨‚àûC, and vaporized hydrogen peroxide (VHP).
+Dry heat and UV decontaminating N95 respirators can also be used under certain conditions.
+Dry heat and UV decontaminating N95 respirators can also be used under certain conditions.
+Dry heat and UV decontaminating N95 respirators can also be used under certain conditions.
+Additional methods showing efficacy against SARS-CoV-2 on respirators include pulsed xenon ultraviolet light, wet heat (using a multicooker), and methylene blue plus light.
+Additional methods showing efficacy against SARS-CoV-2 on respirators include pulsed xenon ultraviolet light, wet heat (using a multicooker), and methylene blue plus light.
+Hydrogen peroxide vapor (VHP) can repeatedly decontaminate N95 respirators.
+Hydrogen peroxide vapor (VHP) can repeatedly decontaminate N95 respirators.
+Hydrogen peroxide vapor (VHP) can repeatedly decontaminate N95 respirators.
+Hydrogen peroxide vapor (VHP) can repeatedly decontaminate N95 respirators.
+Hydrogen peroxide vapor (VHP) can repeatedly decontaminate N95 respirators.
+Hydrogen peroxide vapor (VHP) can repeatedly decontaminate N95 respirators.
+Respirator decontamination methods such as VHP appear to maintain filtration efficiency after repeated decontamination cycles.
+Respirator decontamination methods such as VHP appear to maintain filtration efficiency after repeated decontamination cycles.
+Several decontamination methods, including VHP, moist heat, and UVC, are capable of decontaminating N95 respirators for 10-20 cycles without loss of fit or filtration efficiency.
+Researchers have developed a thermal inactivation model for SARS-CoV-2, providing estimates of infectivity reduction based on time and temperature in the environment and under decontamination strategies.
+Researchers have developed a thermal inactivation model for SARS-CoV-2, providing estimates of infectivity reduction based on time and temperature in the environment and under decontamination strategies.
+Researchers have developed a thermal inactivation model for SARS-CoV-2, providing estimates of infectivity reduction based on time and temperature in the environment and under decontamination strategies.
+Researchers have developed a thermal inactivation model for SARS-CoV-2, providing estimates of infectivity reduction based on time and temperature in the environment and under decontamination strategies.
+Oral antiseptic rinses used in pre-procedural rinses for dentistry containing povidone-iodine (PVP-I) are effective decontaminants of SARS-CoV-2, completely inactivating SARS-CoV-2 at concentrations above 0.5% in lab tests (for 15-30 s).
+Oral antiseptic rinses used in pre-procedural rinses for dentistry containing povidone-iodine (PVP-I) are effective decontaminants of SARS-CoV-2, completely inactivating SARS-CoV-2 at concentrations above 0.5% in lab tests (for 15-30 s).
+Oral antiseptic rinses used in pre-procedural rinses for dentistry containing povidone-iodine (PVP-I) are effective decontaminants of SARS-CoV-2, completely inactivating SARS-CoV-2 at concentrations above 0.5% in lab tests (for 15-30 s).
+Oral antiseptic rinses used in pre-procedural rinses for dentistry containing povidone-iodine (PVP-I) are effective decontaminants of SARS-CoV-2, completely inactivating SARS-CoV-2 at concentrations above 0.5% in lab tests (for 15-30 s).
+Oral antiseptic rinses used in pre-procedural rinses for dentistry containing povidone-iodine (PVP-I) are effective decontaminants of SARS-CoV-2, completely inactivating SARS-CoV-2 at concentrations above 0.5% in lab tests (for 15-30 s).
+Oral antiseptic rinses used in pre-procedural rinses for dentistry containing povidone-iodine (PVP-I) are effective decontaminants of SARS-CoV-2, completely inactivating SARS-CoV-2 at concentrations above 0.5% in lab tests (for 15-30 s).
+Face masks appear effective at reducing infections from SARS-CoV-2.
+Face masks appear effective at reducing infections from SARS-CoV-2.
+Healthcare worker illnesses650 demonstrates human-to-human transmission despite isolation, PPE, and infection control.
+Risk of transmission to healthcare workers is high.
+Risk of transmission to healthcare workers is high.
+Risk of transmission to healthcare workers is high.
+Risk of transmission to healthcare workers is high.
+Risk of transmission to healthcare workers is high.
+Contacts with healthcare workers tend to transmit COVID-19 more often than other casual contacts.
+Hospital-acquired infection rates fell after introduction of comprehensive infection control measures, including expanded testing and use of PPE for all patient contacts.
+Universal masking policies also reduced the rate of new healthcare worker infections.
+Universal masking policies also reduced the rate of new healthcare worker infections.
+Universal masking policies also reduced the rate of new healthcare worker infections.
+Healthcare personnel entering the room [of SARS-CoV-2 patients] should use standard precautions, contact precautions, airborne precautions, and use eye protection (e.g., goggles or a face shield).
+Healthcare personnel entering the room [of SARS-CoV-2 patients] should use standard precautions, contact precautions, airborne precautions, and use eye protection (e.g., goggles or a face shield).
+Healthcare personnel entering the room [of SARS-CoV-2 patients] should use standard precautions, contact precautions, airborne precautions, and use eye protection (e.g., goggles or a face shield).
+Healthcare personnel entering the room [of SARS-CoV-2 patients] should use standard precautions, contact precautions, airborne precautions, and use eye protection (e.g., goggles or a face shield).
+Healthcare personnel entering the room [of SARS-CoV-2 patients] should use standard precautions, contact precautions, airborne precautions, and use eye protection (e.g., goggles or a face shield).
+Healthcare personnel entering the room [of SARS-CoV-2 patients] should use standard precautions, contact precautions, airborne precautions, and use eye protection (e.g., goggles or a face shield).
+WHO indicates healthcare workers should wear clean long-sleeve gowns as well as gloves.
+PPE that covers all skin may reduce exposure to pathogens.
+Respirators (NIOSH-certified N95, EUFFP2 or equivalent) are recommended for those working with potential aerosols.
+Respirators (NIOSH-certified N95, EUFFP2 or equivalent) are recommended for those working with potential aerosols.
+Respirators (NIOSH-certified N95, EUFFP2 or equivalent) are recommended for those working with potential aerosols.
+Additional protection (Powered Air Purifying Respirator (PAPR) with hood), should be considered for high-risk procedures.
+Additional protection (Powered Air Purifying Respirator (PAPR) with hood), should be considered for high-risk procedures.
+Researchers have developed a lipopeptide fusion inhibitor that prevents SARS-CoV-2 transmission in ferrets given the peptide prophylactically via the intranasal route; human studies have yet to be conducted.
+Researchers have developed a lipopeptide fusion inhibitor that prevents SARS-CoV-2 transmission in ferrets given the peptide prophylactically via the intranasal route; human studies have yet to be conducted.
+Researchers have developed a lipopeptide fusion inhibitor that prevents SARS-CoV-2 transmission in ferrets given the peptide prophylactically via the intranasal route; human studies have yet to be conducted.
+Researchers have developed a lipopeptide fusion inhibitor that prevents SARS-CoV-2 transmission in ferrets given the peptide prophylactically via the intranasal route; human studies have yet to be conducted.
+Researchers have developed a lipopeptide fusion inhibitor that prevents SARS-CoV-2 transmission in ferrets given the peptide prophylactically via the intranasal route; human studies have yet to be conducted.
+Researchers have developed a lipopeptide fusion inhibitor that prevents SARS-CoV-2 transmission in ferrets given the peptide prophylactically via the intranasal route; human studies have yet to be conducted.
+Non-medical masks may be effective at slowing transmission, though data specific to SARS-CoV-2 are sparse.
+The CDC recommends masks without exhalation vents or valves, as masks with valves can allow particles to pass through unfiltered.
+The CDC recommends masks without exhalation vents or valves, as masks with valves can allow particles to pass through unfiltered.
+The WHO recommends that the general population wear non-medical masks when in public settings and when physical distancing is difficult, and that vulnerable populations (e.g., elderly) wear medical masks when close contact is likely.
+A meta-analysis of SARS-CoV-1, MERS, and COVID-19 transmission events found evidence that wearing face masks and eye protection were each associated with lower risk of transmission, with N95 respirators more effective than surgical masks.
+A meta-analysis of SARS-CoV-1, MERS, and COVID-19 transmission events found evidence that wearing face masks and eye protection were each associated with lower risk of transmission, with N95 respirators more effective than surgical masks.
+In a separate meta-analysis, N95 respirators were found to be beneficial for reducing the occurrence of respiratory illness in health care professionals including influenza, though surgical masks were similarly effective for influenza.
+Surgical face masks, respirators, and homemade face masks may prevent transmission of coronaviruses from infectious individuals to other individuals.
+Surgical masks were associated with a significant reduction in the amount of seasonal coronavirus expressed as aerosol particles (<5 ≈í¬∫m).
+Homemade masks reduce overall flow from breathing and coughing (63-86% reduction) but also generate leakage jets facing downward and backward from the wearer‚Äö√Ñ√¥s face.
+Homemade masks reduce overall flow from breathing and coughing (63-86% reduction) but also generate leakage jets facing downward and backward from the wearer‚Äö√Ñ√¥s face.
+Homemade masks reduce overall flow from breathing and coughing (63-86% reduction) but also generate leakage jets facing downward and backward from the wearer‚Äö√Ñ√¥s face.
+Homemade masks reduce overall flow from breathing and coughing (63-86% reduction) but also generate leakage jets facing downward and backward from the wearer‚Äö√Ñ√¥s face.
+Homemade masks reduce overall flow from breathing and coughing (63-86% reduction) but also generate leakage jets facing downward and backward from the wearer‚Äö√Ñ√¥s face.
+Homemade masks reduce overall flow from breathing and coughing (63-86% reduction) but also generate leakage jets facing downward and backward from the wearer‚Äö√Ñ√¥s face.
+Some non-standard materials (e.g., cotton, cotton hybrids) may be able to filter out >90% of simulant particles >0.3≈í¬∫m, while other materials (e.g., T-shirt, vacuum cleaner bag, towels) appear to have lower filtration efficacy (~35-62%).
+Some non-standard materials (e.g., cotton, cotton hybrids) may be able to filter out >90% of simulant particles >0.3≈í¬∫m, while other materials (e.g., T-shirt, vacuum cleaner bag, towels) appear to have lower filtration efficacy (~35-62%).
+Some non-standard materials (e.g., cotton, cotton hybrids) may be able to filter out >90% of simulant particles >0.3≈í¬∫m, while other materials (e.g., T-shirt, vacuum cleaner bag, towels) appear to have lower filtration efficacy (~35-62%).
+Of 42 homemade materials tested, the three with the greatest filtration efficiencies were layered cotton with raised visible fibers.
+Of 42 homemade materials tested, the three with the greatest filtration efficiencies were layered cotton with raised visible fibers.
+Of 42 homemade materials tested, the three with the greatest filtration efficiencies were layered cotton with raised visible fibers.
+Of 42 homemade materials tested, the three with the greatest filtration efficiencies were layered cotton with raised visible fibers.
+Neck fleeces commonly worn by runners may increase the frequency of small aerosol particles, compared to wearing no mask at all.
+Neck fleeces commonly worn by runners may increase the frequency of small aerosol particles, compared to wearing no mask at all.
+Cotton T-shirt masks appear ineffective at reducing emitted particles when individuals talk, breathe, sneeze, or cough, with those made of single layers increasing emitted particles during these activities.
+Cotton T-shirt masks appear ineffective at reducing emitted particles when individuals talk, breathe, sneeze, or cough, with those made of single layers increasing emitted particles during these activities.
+Cotton T-shirt masks appear ineffective at reducing emitted particles when individuals talk, breathe, sneeze, or cough, with those made of single layers increasing emitted particles during these activities.
+Smaller aerosol particles (e.g., <0.1≈í¬∫m) are more difficult to filter for most respirators and face masks.
+All current evidence supports the natural emergence of SARS-CoV-2 via a bat and possible intermediate mammal species.
+All current evidence supports the natural emergence of SARS-CoV-2 via a bat and possible intermediate mammal species.
+Pangolin coronaviruses were shown to be more divergent and split off from bat coronaviruses earlier than SARS-CoV-2.
+Pangolin coronaviruses were shown to be more divergent and split off from bat coronaviruses earlier than SARS-CoV-2.
+Pangolin coronaviruses were shown to be more divergent and split off from bat coronaviruses earlier than SARS-CoV-2.
+Based on phylogenetic analysis, SARS-CoV-2 most likely emerged from Rhinolophus (horseshoe) bats living in China, Laos, Myanmar, Vietnam, or another Southeast Asian country, though historical recombination with pangolin coronaviruses may explain some features of the SARS-CoV-2 genome.
+Based on phylogenetic analysis, SARS-CoV-2 most likely emerged from Rhinolophus (horseshoe) bats living in China, Laos, Myanmar, Vietnam, or another Southeast Asian country, though historical recombination with pangolin coronaviruses may explain some features of the SARS-CoV-2 genome.
+Genomic analysis suggests that SARS-CoV-2 is a natural variant and is unlikely to be human-derived or otherwise created by ‚Äö√Ñ√∫recombination‚Äö√Ñ√π with other circulating strains of coronavirus.
+Phylogenetics suggest that SARS-CoV-2 is of bat origin, but is closely related to coronaviruses found in pangolins.
+Phylogenetics suggest that SARS-CoV-2 is of bat origin, but is closely related to coronaviruses found in pangolins.
+Phylogenetics suggest that SARS-CoV-2 is of bat origin, but is closely related to coronaviruses found in pangolins.
+The rest of the genome is more closely related to two separate bat coronaviruses and coronaviruses found in pangolins.
+The rest of the genome is more closely related to two separate bat coronaviruses and coronaviruses found in pangolins.
+The rest of the genome is more closely related to two separate bat coronaviruses and coronaviruses found in pangolins.
+The rest of the genome is more closely related to two separate bat coronaviruses and coronaviruses found in pangolins.
+Additional whole- genome sequencing in humans would help to confirm this finding.
+Genomic data support at least two plausible origins of SARS-CoV-2 ‚Äö√Ñ√∫(i) natural selection in a non-human animal host prior to zoonotic transfer, and (ii) natural selection in humans following zoonotic transfer.‚Äö√Ñ√π
+Some SARS-CoV-2 genomic evidence indicates a close relationship with pangolin coronaviruses, and data suggest that pangolins may be a natural host for beta-coronaviruses.
+Some SARS-CoV-2 genomic evidence indicates a close relationship with pangolin coronaviruses, and data suggest that pangolins may be a natural host for beta-coronaviruses.
+These studies suggest that pangolins may have played an intermediate role in the adaptation of SARS-CoV-2 to be able to bind to the human ACE2 receptor.
+These studies suggest that pangolins may have played an intermediate role in the adaptation of SARS-CoV-2 to be able to bind to the human ACE2 receptor.
+A key difference between SARS-CoV-2 and other beta-coronaviruses is the presence of a polybasic furin cleavage site in the Spike protein (insertion of a PRRA amino acid sequence between S1 and S2).
+A key difference between SARS-CoV-2 and other beta-coronaviruses is the presence of a polybasic furin cleavage site in the Spike protein (insertion of a PRRA amino acid sequence between S1 and S2).
+A novel bat coronavirus (RmYN02) has been identified in China with an insertion between the S1/S2 cleavage site of the Spike protein.
+A novel bat coronavirus (RmYN02) has been identified in China with an insertion between the S1/S2 cleavage site of the Spike protein.
+These data further suggest that SARS-CoV-2 emergence is the result of natural emergence and that there is a potential for future zoonotic transmission of additional pathogenic strains to humans.
+Variants leading to the most severe illness were located in the C-terminal end of the Spike protein.
+Several viral variants, representing unique collections of mutations, are being investigated for their effects on transmission and/or virulence.
+Several viral variants, representing unique collections of mutations, are being investigated for their effects on transmission and/or virulence.
+Several viral variants, representing unique collections of mutations, are being investigated for their effects on transmission and/or virulence.
+An ongoing study of SARS-CoV-2 sequences reveals the continued spread and increased presence of sequences with the D614G mutation, though it is possible that founder effects contributed to its prevalence.
+An ongoing study of SARS-CoV-2 sequences reveals the continued spread and increased presence of sequences with the D614G mutation, though it is possible that founder effects contributed to its prevalence.
+An ongoing study of SARS-CoV-2 sequences reveals the continued spread and increased presence of sequences with the D614G mutation, though it is possible that founder effects contributed to its prevalence.
+An ongoing study of SARS-CoV-2 sequences reveals the continued spread and increased presence of sequences with the D614G mutation, though it is possible that founder effects contributed to its prevalence.
+Broad phylogenetic analysis, however, suggests that no current, recurring SARS-CoV-2 mutations (including D614G) are associated with higher rates of transmission in human populations.
+Broad phylogenetic analysis, however, suggests that no current, recurring SARS-CoV-2 mutations (including D614G) are associated with higher rates of transmission in human populations.
+The D614G mutation appears to make the virus more susceptible to neutralization by monoclonal antibodies or by convalescent plasma.
+The D614G mutation appears to make the virus more susceptible to neutralization by monoclonal antibodies or by convalescent plasma.
+The D614G mutation appears to make the virus more susceptible to neutralization by monoclonal antibodies or by convalescent plasma.
+Antibodies induced by the D614G mutation or wild-type virus are able to neutralize each other.
+Antibodies induced by the D614G mutation or wild-type virus are able to neutralize each other.
+Antibodies induced by the D614G mutation or wild-type virus are able to neutralize each other.
+Antibodies induced by the D614G mutation or wild-type virus are able to neutralize each other.
+An existing variant (VUI 202012/01) that is increasing in prevalence in some areas of the UK has been associated with higher transmission rates, though confirmation in human or animal studies is needed.
+Several human genomic regions, including those determining blood type, affect COVID-19 prevalence and/or severity.
+Blood type may affect COVID-19, with evidence of slightly increased prevalence and moderately increased severity in those with type A blood (though evidence is mixed).
+Blood type may affect COVID-19, with evidence of slightly increased prevalence and moderately increased severity in those with type A blood (though evidence is mixed).
+Blood type may affect COVID-19, with evidence of slightly increased prevalence and moderately increased severity in those with type A blood (though evidence is mixed).
+Blood type may affect COVID-19, with evidence of slightly increased prevalence and moderately increased severity in those with type A blood (though evidence is mixed).
+A large study (n=225,556) found that individuals with type O blood had less severe disease and lower risk of death from COVID-19 than individuals with other blood types, and that Rh-negative status showed lower COVID-19 prevalence.
+Individuals with defective androgen signaling (long polyQ allelic repeats in the androgen receptor gene) were more likely to have severe COVID-19, possibly due to increased inflammatory responses; this may influence treatment decisions.
+In a study of 2,244 critically ill COVID-19 patients, researchers identified novel associations between several genes involved in innate antiviral defenses (IFNAR2 and OAS) and host-driven inflammatory lung injury (DPP9, TYK2, and CCR2).
+In a study of 2,244 critically ill COVID-19 patients, researchers identified novel associations between several genes involved in innate antiviral defenses (IFNAR2 and OAS) and host-driven inflammatory lung injury (DPP9, TYK2, and CCR2).
+The main SARS-CoV-2 variant associated with mink outbreaks in the Netherlands involves the Y453F mutation, which has also been identified in humans outside of Europe; this suggests the strain originated in humans.
+Several platforms provide digital dashboards summarizing the current status of the pandemic in US states and counties.
+Several platforms provide digital dashboards summarizing the current status of the pandemic in US states and counties.
+Hospital IQ has a dashboard that forecasts hospital and ICU admissions for each county in the US.
+Youyang Gu Mechanistic SEIR model coupled with machine learning algorithms to minimize error between predicted and observed values.
+Covasim Agent-based model for testing effects of intervention measures, also available as Python library.
+Covasim Agent-based model for testing effects of intervention measures, also available as Python library.
+Covasim Agent-based model for testing effects of intervention measures, also available as Python library.
+Covasim Agent-based model for testing effects of intervention measures, also available as Python library.
+Covasim Agent-based model for testing effects of intervention measures, also available as Python library.
