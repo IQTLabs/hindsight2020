@@ -98,7 +98,14 @@ from your repository root. This will extract the sentences from the
 CORD-19 dataset of json files, and claim-match them against the DHS ground truth evidence contained in `./config/config.yml`. 
 
 ## Manually processing SBERT-matched claims
-Once you run the code to generate potential matches for the DHS evidence sentences, you will want to manually examine these matches. In our experiment, selecting the top ten best matches for each DHS sentence led to about 6,000 sentence pairs that we manually annotated on a 0 to 3 scale for their "spiritual similarity" as research conclusions/evidence pairs -- these annotated pairs are available at the link below.
+Once you run the code to generate potential matches for the DHS evidence sentences, you will want to manually examine these matches. 
+
+In our experiment, selecting the top ten best matches for each DHS sentence led to about 6,000 sentence pairs which we manually annotated on a 0 to 3 scale for their "spiritual similarity" as research conclusions/evidence pairs.
+
+Please note:
+> We rank sentence similarity in terms of how closely-aligned two sentences are from the standpoint of research claim-matching: that is, if we wanted to find which papers contained sentences _similar in spirit_ to the original evidence, that is: statements describing the same phenomenon _even if they arrived at opposing research conclusions_. These ratings do not necessarily overlap with traditional STS scoring, as whether or not two sentences are "very similar" as, in some sense, many/most sentences would be similar at a very high level of abstraction given that they all pertain to COVID-19. Similarly, our approach takes into account seemingly unrelated annotations in our dataset which may still be discussing the same topic or sub-topic.
+
+Our original annotated pairs are available at the link below.
 
 ## Measuring Entailment/Contradiction
 To measure entailment, we prepared an `inputs.txt` file of sentence pairs to be fed into the [MedNLI](https://github.com/jgc128/mednli) tool by Romanov et al.
