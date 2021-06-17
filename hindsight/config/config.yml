@@ -1,13 +1,13 @@
 ---
 # processing paths:
-data_dir: ../Hindsight2020_ready/data
-output_dir: hindsight/matched_claims/ # path to where matched outputs are written
-results_csv_path: hindsight/results.txt
-skipped_path: hindsight/skipped.txt
+#data_dir: ../Hindsight2020/data
+output_dir: hindsight/matched_claims/ # path to where matched outputs are written for debugging
+results_csv_path: hindsight/results.txt # path to where results are stored
+skipped_path: hindsight/skipped.txt # path to where error-generating DHS sentences are stored, for debugging
 
 # CORD19 paths
-cord19_dir: ../Hindsight2020_ready/data/cord19_json/pdf_json_jan4/ # json files we want to process as candidate docs
-metadata_path: ../Hindsight2020_ready/data/metadata.csv # CORD19 metadata that comes with a download of the dataset
+cord19_dir: ../Hindsight2020/data/cord19_json/pdf_json_jan4/ # json files we want to process as candidate docs
+metadata_path: ../Hindsight2020/data/metadata.csv # CORD19 metadata that comes with a download of the dataset
 
 # DHS dataset paths
 DHS_path: hindsight/DHS_processed.txt
@@ -23,9 +23,15 @@ num_matches: 10 # number of top matches to show
 model: msmarco-distilroberta-base-v2
 # additional recommended models are xlm-r-large-en-ko-nli-ststb and roberta-large-nli-stsb-mean-tokens
 
-# manual matcher parameters:
+# copy the sentences here in the format below that you want to match against. Be careful about some punctuation -- I believe there
+# were some issues
 sentences: # manually specified sentences to use for claim matching if manual is specified for the search set
-  - Preliminary genomic analyses, however, suggest that the first human cases of SARS-CoV-2 emerged between 10/19/2019 - 12/17/2019.
+  - The human infectious dose of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is unknown by all exposure routes. 
+  - Based on experimental studies with humans exposed to other coronaviruses, animals exposed to SARS-CoV-2, and modeling estimates, the median infectious dose is likely between 10 and 1,000 viral particles (plaque-forming units, PFU). 
+  - A total dose of approximately 700,000 plaque-forming units (PFU) of the novel coronavirus SARS-CoV-2 infected cynomolgus macaques via combination intranasal and intratracheal exposure (106 TCID50 total dose). 
+  - Rhesus and cynomolgus macaques showed mild to moderate clinical infections at doses of 4.75x106 PFU (delivered through several routes), while marmosets developed mild infections when exposed to 1x106 PFU intranasally. 
+  - Rhesus macaques are effectively infected with SARS-CoV-2 via the ocular conjunctival and intratracheal route at a dose of ~700,000 PFU (106 TCID50).
+  - Rhesus macaques infected with 2,600,000 TCID50 of SARS-CoV-2 by the intranasal, intratracheal, oral and ocular routes combined recapitulate moderate human disease.
 
 
 ...

@@ -8,16 +8,16 @@ import json, os, sys, csv
 
 def load_CORD19_metadata(cfg):
     '''
-        Returns the article metadata from the CORD19 dataset path specified in cfg. Note that one article may
-        be associated with multiple sha-s (unique ids) -- this code creates an entry for each unique sha.
+    Returns the article metadata from the CORD19 dataset path specified in cfg. Note that one article may
+    be associated with multiple sha-s (unique ids) -- this code creates an entry for each unique sha.
 
-        Arguments:
-            [dict] cfg :  the configuration file that points to the metadata_path of the CORD19 metadata csv
-                        specified in main.py via config.yml
-        Returns:
-            [dict] article_metadata :   a dict with the article sha (unique ID) as the key, and the values are
-                                        dictionaries of article metadata for each unique sha.
-            [dict] title_to_id :        a dict that assosicates a list of sha-s with each unique article title
+    Arguments:
+        [dict] cfg :  the configuration file that points to the metadata_path of the CORD19 metadata csv
+                    specified in main.py via config.yml
+    Returns:
+        [dict] article_metadata :   a dict with the article sha (unique ID) as the key, and the values are
+                    dictionaries of article metadata for each unique sha.
+        [dict] title_to_id :        a dict that assosicates a list of sha-s with each unique article title
     '''
 
     file = open(cfg['metadata_path'])
@@ -27,7 +27,7 @@ def load_CORD19_metadata(cfg):
     article_metadata = {}
     title_to_id = {}
 
-    for line in  csv.reader(data, quotechar='"', delimiter=',', quoting=csv.QUOTE_ALL, skipinitialspace=True):
+    for line in csv.reader(data, quotechar='"', delimiter=',', quoting=csv.QUOTE_ALL, skipinitialspace=True):
         article = {}
         article['shas'] = line[1]
         article['date'] = line[9]
@@ -46,15 +46,15 @@ def load_CORD19_metadata(cfg):
 
 def load_questions_mapping(cfg):
     '''
-        Maps each DHS sentence to its corresponding DHS question, using the path to the DHS
-        sentences specified in the config file [cfg]. Prints out the number of DHS citations that appear
-        in the CORD19 dataset
+    Maps each DHS sentence to its corresponding DHS question, using the path to the DHS
+    sentences specified in the config file [cfg]. Prints out the number of DHS citations that appear
+    in the CORD19 dataset
 
-        Arguments:
-            [dict] cfg :  the configuration file that points to the DHS_path of the sentences + questions mined from
+    Arguments:
+        [dict] cfg :  the configuration file that points to the DHS_path of the sentences + questions mined from
                             DHS' updates, this path is specified in main.py via config.yml
-        Returns:
-            [dict] question_mapping :   maps each DHS sentence to its corresponding DHS question
+    Returns:
+        [dict] question_mapping :   maps each DHS sentence to its corresponding DHS question
     '''
     file = open(cfg['DHS_path'])
     data = file.readlines()
@@ -92,28 +92,22 @@ def load_questions_mapping(cfg):
     return question_mapping
 
 def get_json_data(cfg, sentence_to_paperID):
-    """
-    Helper function that fetches the fact-checked data from a file
-
-    :param cfg: configuration dictionary
-    :return: a list of fact-checked miscellaneous json claims
-    """
     '''
-        Processes the CORD19 articles and metadata (in json format) into the dataset formats needed for this library. Ignores
-        any articles that are too old to be about COVID19 (pre 2020). Grabs all sentences from both the abstracts and the
-        paper bodies.
+    Processes the CORD19 articles and metadata (in json format) into the dataset formats needed for this library. Ignores
+    any articles that are too old to be about COVID19 (pre 2020). Grabs all sentences from both the abstracts and the
+    paper bodies.
 
-        Arguments:
-            [dict] cfg :                the configuration file that points to the cord19_dir, where the CORD19 dataset has been downloaded;
-                                        we point it to the folder of jsons for pdfs in this download of CORD19
-            [dict] sentence_to_paperID : maps each sentence from an academic article to the paper_ID of CORD19 (not the same as sha)
-        Returns:
-            [list] data :               List of sentences mined from all CORD19 articles
-            [dict] article_metadata :   a dict with the article sha (unique ID) as the key, and the values are
-                                        dictionaries of article metadata for each unique sha.
-            [dict] title_to_id :        a dict that assosicates a list of sha-s with each unique article title
-            [dict] question_mapping :   maps each DHS sentence to its corresponding DHS question
-            [dict] sentence_to_paperID : not explicitly returned, but this argument is updated in this function
+    Arguments:
+        [dict] cfg : the configuration file that points to the cord19_dir, where the CORD19 dataset has been downloaded;
+                    we point it to the folder of jsons for pdfs in this download of CORD19
+        [dict] sentence_to_paperID : maps each sentence from an academic article to the paper_ID of CORD19 (not the same as sha)
+    Returns:
+        [list] data : List of sentences mined from all CORD19 articles
+        [dict] article_metadata : a dict with the article sha (unique ID) as the key, and the values are
+                    dictionaries of article metadata for each unique sha.
+        [dict] title_to_id : a dict that assosicates a list of sha-s with each unique article title
+        [dict] question_mapping : maps each DHS sentence to its corresponding DHS question
+        [dict] sentence_to_paperID : not explicitly returned, but this argument is updated in this function
     '''
     if not os.path.exists(cfg['cord19_dir']):
         print("Please ensure you followed the README directions for JSON data.")

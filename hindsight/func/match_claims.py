@@ -67,16 +67,16 @@ def get_top_matches(search_embedding, candidate_embeddings, search_set, candidat
 
 def create_paperID_to_citation_mapping(title_to_id, cfg):
     """
-        Tries to map the CORD19 paper_ID to the citation numbers provided via the DHS evidence.
-        Allows us to connect the DHS paper mentions/citations to the CORD19 papers, as these do not share paper_IDs;
-        we rely on matching the title of the paper across these two datasets for a match (TODO: this could be improved).
+    Tries to map the CORD19 paper_ID to the citation numbers provided via the DHS evidence.
+    Allows us to connect the DHS paper mentions/citations to the CORD19 papers, as these do not share paper_IDs;
+    we rely on matching the title of the paper across these two datasets for a match (TODO: this could be improved).
 
-        Arguments:
-            [dict] title_to_id : a dict that assosicates a list of CORD19 sha-s with each unique article title
-            [dict] cfg :  the configuration file that points to the DHS_citations_path of the DHS evidence
+    Arguments:
+        [dict] title_to_id : a dict that assosicates a list of CORD19 sha-s with each unique article title
+        [dict] cfg :  the configuration file that points to the DHS_citations_path of the DHS evidence
                         specified in main.py via config.yml
-        Returns:
-            [dict] sentence_to_paperID_mapping: 
+    Returns:
+        [dict] sentence_to_paperID_mapping: 
     """
     sentence_to_paperID_mapping = {}
 
@@ -122,7 +122,9 @@ def create_paperID_to_citation_mapping(title_to_id, cfg):
 
 def citations_csv(cfg):
     '''
-        helper function to write citation metadata for each sentence (plus the sentence) to a file as a prep for a dataframe
+    Helper function to write citation metadata for each sentence (plus the sentence) to a file as a prep for a dataframe
+    Arguments:
+        [dict] cfg : configuration data from yaml file
     '''
     print("loading metadata...")
     article_metadata, title_to_id = load_CORD19_metadata(cfg)
@@ -149,8 +151,8 @@ def citations_csv(cfg):
 
 def make_known_citation_folder(DHS_sent_to_paperID_mapping):
     """
-        Helper function to create a directory of json files (of COVID articles) that are part of CORD19
-        and also mentioned in the DHS citations
+    Helper function to create a directory of json files (of COVID articles) that are part of CORD19
+    and also mentioned in the DHS citations
 
         Arguments:
             [dict] DHS_sent_to_paperID_mapping : maps DHS sentences to their sha-s (ids)
@@ -206,14 +208,7 @@ def write_search_doc_output(file, search_doc, candidate_docs, match, distances, 
     for index in low_indices:
 
         # print out the DHS sentence and its metadata
-        #print(candidate_docs)
-        #print(low_indices)
-        #print(index)
-        print("quitting")
-        quit()
         index = int(index)
-        print(candidate_docs[index])
-        print(paperLookup)
         paperID = str(paperLookup[candidate_docs[index]])
         search_question = search_doc.replace('\n', ' ').strip()
         search_paperID = "None"
@@ -274,11 +269,12 @@ def retrieve_nearest(search_docs, candidate_docs, matches, search_set, candidate
 
 def load_search_keywords(search_keywords, cfg):
     """
-        Loads the NERs mined from each sentence with some cleanup into the incoming argument search_keywords
-        using the NERs_path in the configuration dict cfg.
+    Loads the NERs mined from each sentence with some cleanup into the incoming argument search_keywords
+    using the NERs_path in the configuration dict cfg.
 
-        Arguments:
-            [dict] search_keywords : a dictionary that maps a sentence to its list of non-stopword keywords
+    Arguments:
+        [dict] search_keywords : a dictionary that maps a sentence to its list of non-stopword keywords
+        [dict] cfg : a dictionary of the configuration information in the yaml file
 
     """
     file = open(cfg['NERs_path'])
@@ -304,14 +300,14 @@ def load_search_keywords(search_keywords, cfg):
 
 def filter_candidate_docs(candidate_docs, search_keywords, MIN_KEYWORDS=3):
     """
-        Filter the list of candidate sentences to just those that have at least MIN_KEYWORDS matching the DHS sentence;
-        if we don't do this, SBERT will take too long to run. Generally would like to keep the number of
-        sentences that we claim match against less than a few thousand in most cases.
+    Filter the list of candidate sentences to just those that have at least MIN_KEYWORDS matching the DHS sentence;
+    if we don't do this, SBERT will take too long to run. Generally would like to keep the number of
+    sentences that we claim match against less than a few thousand in most cases.
 
-        Arguments:
-            [dict] candidate_docs : a list of size two, who's first element contains all the sentences we could match against
-            [dict] search_keywords : a dictionary that maps a sentence to its list of non-stopword keywords
-            [int] MIN_KEYWORDS: the minimum number of keywords that need to match between DHS and CORD19 sentences to keep the latter
+    Arguments:
+        [dict] candidate_docs : a list of size two, who's first element contains all the sentences we could match against
+        [dict] search_keywords : a dictionary that maps a sentence to its list of non-stopword keywords
+        [int] MIN_KEYWORDS: the minimum number of keywords that need to match between DHS and CORD19 sentences to keep the latter
     """
 
     filtered_candidate_docs = []
