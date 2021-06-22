@@ -6,7 +6,7 @@ This codebase matches sentences between two corpora of COVID-19 academic article
 
 We use this approach to claim-match a [human-curated set of COVID-19 research results](https://www.dhs.gov/publication/st-master-question-list-covid-19) (corpus1, DHS) against [over a hundred thousand academic articles on COVID-19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7251955/) (corpus2, CORD-19-AllenAI) to trace the evolution of research for emerging infectious disease (EID) outbreaks. Specifically, we examine the stability around early evidence in the course of the pandemic, and therefore, the feasibility and timelines of using early research conclusions for policy-making EIDs.
 
-For more details, see our [Hindsight2020 paper](http://FIXME).
+For more details, see our [Hindsight2020 paper -- TBA](http://FIXME).
 
 ## Abstract
 
