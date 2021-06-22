@@ -116,6 +116,17 @@ An example snippet of our annotations of sentence pairs is as follows:
 
 Our 5,800 annotated pairs are available in the `paper_results` folder of this repo.
 
+## Analysis for paper 
+We provide a jupyter notebook for generating the analyses and images for our paper in the `./hindsight/paper_results/` directory. 
+
+These analyses can be used to generate graphs of the patterns of evidence for different MQL questions over time:
+![Patterns of evidence evolution across different MQL questions over time](./images/non_no_original.png)
+
+As another example, we can compare the DHS evidence against the CORD19 evidence over time:
+![Patterns of evidence evolution for DHS evidence versus CORD19 evidence](./images/DHS_vs_CORD19_close.png)
+
+Our 5,800 annotated pairs, are available in the `paper_results` folder of this repo as `./hindsight/paper_results/hindsight_results_combined_citations_DHSdates.csv`.
+
 ## Measuring Entailment/Contradiction
 To measure entailment, we prepared an `inputs.txt` file of sentence pairs to be fed into the [MedNLI](https://github.com/jgc128/mednli) tool by Romanov et al.
 After cloning that repo, it can be run on our dataset as:
@@ -133,17 +144,6 @@ Such an analysis can be used to generate a graph of the change in uncertainty ov
 ![Uncertainty evolution in research evidence over time](./images/uncertainty.png)
 
 Our 5,800 annotated pairs, along with their uncertainty evolution scores, are available in the `paper_results` folder of this repo.
-
-## Analysis for paper 
-We provide a jupyter notebook for generating the analyses and images for our paper in the `./hindsight/paper_results/` directory. 
-
-These analyses can be used to generate graphs of the patterns of evidence for different MQL questions over time:
-![Patterns of evidence evolution across different MQL questions over time](./images/non_no_original.png)
-
-As another example, we can compare the DHS evidence against the CORD19 evidence over time:
-![Patterns of evidence evolution for DHS evidence versus CORD19 evidence](./images/DHS_vs_CORD19_close.png)
-
-Our 5,800 annotated pairs, are available in the `paper_results` folder of this repo as `./hindsight/paper_results/hindsight_results_combined_citations_DHSdates.csv`.
 
 ## Acknowledgements
 
