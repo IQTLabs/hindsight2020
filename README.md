@@ -24,12 +24,16 @@ We apply claim-matching to various subsets of the COVID-19 scientific literature
 `python hindsight/setup.py`
 
 ## Quick start: Running HindSight2020 Claim Matcher using SBERT
-We use a pre-trained SBERT model to efficiently compare pairs of sentences; our DHS search dataset contains about 600 ground-truth claims, which we are able to match against 7 million sentences from the CORD19 candidate dataset within less than 24 hours using this approach. You can verify correct installation by executing the commands below:
+We use a pre-trained SBERT model to efficiently compare pairs of sentences; our DHS search dataset contains about 600 ground-truth claims, which we are able to match against 7 million sentences from the CORD19 candidate dataset within less than 24 hours using this approach. 
+
+You will need to download the [CORD19 dataset](https://allenai.org/data/cord-19) in order to verify installation; 
+
+You can verify correct installation by executing the commands below:
 
 1. Navigate to your repository root.
 2. Modify the `./config/config.yml` file for the setup you would like to run (repo works with defaults there).
 3. Activate the virtual environment from the setup above.
-4. Run `time python hindsight/main.py -s 'manual' -c 'cord19_json' -d` from your repository root. This will extract the sentences from the
+4. Run `time python hindsight/main.py -s 'manual' -c 'cord19_json'` from your repository root. This will extract the sentences from the
 CORD19 dataset of json files, and claim-match them against the DHS ground truth evidence contained in `./config/config.yml`. 
 
 ## HindSight2020 Pre-processing steps
