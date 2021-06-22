@@ -32,6 +32,9 @@ We use a pre-trained SBERT model to efficiently compare pairs of sentences; our 
 4. Run `time python hindsight/main.py -s 'manual' -c 'cord19_json'` from your repository root. This will extract the sentences from the
 CORD-19 dataset of json files, and claim-match them against the DHS ground truth evidence contained in `./config/config.yml`. 
 
+Conceptually, this codebase is performing the actions below:
+![Hindsight2020 analysis](./images/flowchart.png)
+
 ## HindSight2020 Pre-processing steps
 If you want to perform a different analysis than the default in `./config/config.yml`, you'll need to prepare all of the files referenced in that configuration file. Below is a summary of those components, along with the scripts in this repo which can be used to generate the required files.
 
@@ -63,6 +66,9 @@ We perform our claim matching against sentences provided by [DHS' weekly updates
 |15|Genomics|How does the disease agent compare to previous strains?|
 |16|Forecasting|What forecasting models and methods exist?|
 
+An example snippet of the DHS pdf is as follows:
+![Example of DHS evidence/sentences that answer questions from the MQL](./images/MQL.png)
+
 These sentences are placed into `DHS_raw.txt`, with one sentence per line, a `#` separator, followed by a comma-separated list of reference
 numbers.
 
@@ -93,7 +99,7 @@ We copied the numbered citations from the DHS pdf into a text file, specified in
 
 ## Running the SBERT Claim Matching on DHS evidence against the CORD-19 datset
 After completing the installation and preprocessing steps above, you can run the claim matcher with:
-`time python hindsight/main.py -s 'manual' -c 'cord19_json' -d` 
+`time python hindsight/main.py -s 'manual' -c 'cord19_json'` 
 from your repository root. This will extract the sentences from the
 CORD-19 dataset of json files, and claim-match them against the DHS ground truth evidence contained in `./config/config.yml`. 
 
@@ -105,18 +111,39 @@ In our experiment, selecting the top ten best matches for each DHS sentence led 
 Please note:
 > We rank sentence similarity in terms of how closely-aligned two sentences are from the standpoint of research claim-matching: that is, if we wanted to find which papers contained sentences _similar in spirit_ to the original evidence, that is: statements describing the same phenomenon _even if they arrived at opposing research conclusions_. These ratings do not necessarily overlap with traditional STS scoring, as whether or not two sentences are "very similar" as, in some sense, many/most sentences would be similar at a very high level of abstraction given that they all pertain to COVID-19. Similarly, our approach takes into account seemingly unrelated annotations in our dataset which may still be discussing the same topic or sub-topic.
 
-Our original annotated pairs are available at the link below.
+An example snippet of our annotations of sentence pairs is as follows:
+![Example human rating of sentences pairs between DHS and CORD19](./images/example_rating.png)
+
+Our 5,800 annotated pairs are available in the `paper_results` folder of this repo.
 
 ## Measuring Entailment/Contradiction
 To measure entailment, we prepared an `inputs.txt` file of sentence pairs to be fed into the [MedNLI](https://github.com/jgc128/mednli) tool by Romanov et al.
 After cloning that repo, it can be run on our dataset as:
 `python predict.py data/models/mednli.infersent.glovebioasqmimic.128.n8d0l13c.pkl data/inputs.txt data/predictions_test.csv`
 
+Such an analysis can be used to generate a graph of the contradictions over time:
+![Contradictions in research evidence over time](./images/contradictions.png)
+
+Our 5,800 annotated pairs, along with their human-verified contradiction scores, are available in the `paper_results` folder of this repo.
+
 ## Measuring Certainty/Uncertainty
 Similarly, we measured how certainty between two matched sentence pairs evolved over time using the [LUCI](https://github.com/meyersbs/uncertainty/wiki) tool by Vincze. Once you clone that repo, you can run the tool on the `inputs.txt` you prepared in the previous step by running our `uncertainty.py` script in their root directory.
 
+Such an analysis can be used to generate a graph of the change in uncertainty over time:
+![Uncertainty evolution in research evidence over time](./images/uncertainty.png)
+
+Our 5,800 annotated pairs, along with their uncertainty evolution scores, are available in the `paper_results` folder of this repo.
+
 ## Analysis for paper 
-We provide a jupyter notebook for generating the analyses and images for our paper in the `./hindsight/paper_results/` directory. We also provide the full annotated dataset used in our paper in the file `./hindsight/paper_results/hindsight_results_combined_citations_DHSdates.csv`
+We provide a jupyter notebook for generating the analyses and images for our paper in the `./hindsight/paper_results/` directory. 
+
+These analyses can be used to generate graphs of the patterns of evidence for different MQL questions over time:
+![Patterns of evidence evolution across different MQL questions over time](./images/non_no_original.png)
+
+As another example, we can compare the DHS evidence against the CORD19 evidence over time:
+![Patterns of evidence evolution for DHS evidence versus CORD19 evidence](./images/DHS_vs_CORD19_close.png)
+
+Our 5,800 annotated pairs, are available in the `paper_results` folder of this repo as `./hindsight/paper_results/hindsight_results_combined_citations_DHSdates.csv`.
 
 ## Acknowledgements
 
