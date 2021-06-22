@@ -1,13 +1,12 @@
 ---
 # processing paths:
-#data_dir: ../hindsight/data
 output_dir: hindsight/matched_claims/ # path to where matched outputs are written for debugging
 results_csv_path: hindsight/results.txt # path to where results are stored
 skipped_path: hindsight/skipped.txt # path to where error-generating DHS sentences are stored, for debugging
 
 # CORD19 paths
-cord19_dir: ../hindsight/data/cord19_json/mini_json_jan4/ # json files we want to process as candidate docs
-metadata_path: ../hindsight/data/metadata.csv # CORD19 metadata that comes with a download of the dataset
+cord19_dir: data/cord19_json/mini_json_jan4/ # json files we want to process as candidate docs
+metadata_path: data/metadata.csv # CORD19 metadata that comes with a download of the dataset
 
 # DHS dataset paths
 DHS_path: hindsight/DHS_processed.txt

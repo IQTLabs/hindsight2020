@@ -110,11 +110,11 @@ def get_json_data(cfg, sentence_to_paperID):
         [dict] sentence_to_paperID : not explicitly returned, but this argument is updated in this function
     '''
     if not os.path.exists(cfg['cord19_dir']):
-        print("Did you download the CORD19 dataset and its metadata.csv, and update its path in ./config/config.yml? And/or, please ensure you followed the README directions for JSON data.")
+        print("Did you download the CORD19 dataset and its metadata.csv, and update their paths in ./config/config.yml? And/or, please ensure you followed the README directions for JSON data.")
         sys.exit(1)
     json_files = [os.path.join(cfg['cord19_dir'], file) for file in os.listdir(cfg['cord19_dir']) if file.endswith('.json')]
     if len(json_files) == 0:
-        print("Please ensure you followed the README directions for JSON data.")
+        print("Did you download the CORD19 dataset and its metadata.csv, and update their paths in ./config/config.yml? And/or, please ensure you followed the README directions for JSON data.")
         sys.exit(1)
 
     question_mapping = load_questions_mapping(cfg)

@@ -29,7 +29,7 @@ We use a pre-trained SBERT model to efficiently compare pairs of sentences; our 
 1. Navigate to your repository root.
 2. Modify the `./config/config.yml` file for the setup you would like to run (repo works with defaults there).
 3. Activate the virtual environment from the setup above.
-4. Run `time python hindsight/main.py -s 'manual' -c 'cord19_json' -d` from your repository root. This will extract the sentences from the
+4. Run `time python hindsight/main.py -s 'manual' -c 'cord19_json'` from your repository root. This will extract the sentences from the
 CORD-19 dataset of json files, and claim-match them against the DHS ground truth evidence contained in `./config/config.yml`. 
 
 ## HindSight2020 Pre-processing steps
